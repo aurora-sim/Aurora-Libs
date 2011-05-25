@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/519/branches/v2/libs/FreeImage
+END
+freeimage.s.lib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/519/branches/v2/libs/FreeImage/freeimage.s.lib
+END
+FreeImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/519/branches/v2/libs/FreeImage/FreeImage.h
+END
+libfreeimage.a
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/519/branches/v2/libs/FreeImage/libfreeimage.a
+END
+libfreeimage.s.a
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/519/branches/v2/libs/FreeImage/libfreeimage.s.a
+END

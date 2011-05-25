@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Controllers
+END
+AuthValidatorAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Controllers/AuthValidatorAttribute.cs
+END
+RawHandlerAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Controllers/RawHandlerAttribute.cs
+END
+RequestController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Controllers/RequestController.cs
+END
+ViewController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Controllers/ViewController.cs
+END
+AuthRequiredAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Controllers/AuthRequiredAttribute.cs
+END
+BeforeFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Controllers/BeforeFilter.cs
+END
+ControllerNameAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Controllers/ControllerNameAttribute.cs
+END
+ControllerTester.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Controllers/ControllerTester.cs
+END

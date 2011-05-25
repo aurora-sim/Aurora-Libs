@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/492/trunk/JavaOpenJPEG/java-jni/include
+END
+jvmti.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/492/trunk/JavaOpenJPEG/java-jni/include/jvmti.h
+END
+jvmdi.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/492/trunk/JavaOpenJPEG/java-jni/include/jvmdi.h
+END
+jni.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/492/trunk/JavaOpenJPEG/java-jni/include/jni.h
+END
+jdwpTransport.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/492/trunk/JavaOpenJPEG/java-jni/include/jdwpTransport.h
+END
+jawt.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/492/trunk/JavaOpenJPEG/java-jni/include/jawt.h
+END
+jvmpi.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/492/trunk/JavaOpenJPEG/java-jni/include/jvmpi.h
+END

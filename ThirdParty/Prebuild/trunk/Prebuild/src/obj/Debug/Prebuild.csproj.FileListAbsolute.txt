@@ -1,0 +1,5 @@
+E:\Aurora\Projects\Prebuild\trunk\Prebuild\src\bin\Debug\prebuild.exe
+E:\Aurora\Projects\Prebuild\trunk\Prebuild\src\bin\Debug\prebuild.pdb
+E:\Aurora\Projects\Prebuild\trunk\Prebuild\src\obj\Debug\ResolveAssemblyReference.cache
+E:\Aurora\Projects\Prebuild\trunk\Prebuild\src\obj\Debug\prebuild.exe
+E:\Aurora\Projects\Prebuild\trunk\Prebuild\src\obj\Debug\prebuild.pdb

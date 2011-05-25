@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/552/trunk/indexer_JPIP
+END
+tgt.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/16/trunk/indexer_JPIP/tgt.c
+END
+int.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/16/trunk/indexer_JPIP/int.h
+END
+jp2.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/16/trunk/indexer_JPIP/jp2.h
+END
+jpip.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/trunk/indexer_JPIP/jpip.c
+END
+tgt.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/8/trunk/indexer_JPIP/tgt.h
+END
+jpip.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/15/trunk/indexer_JPIP/jpip.h
+END
+pi.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/16/trunk/indexer_JPIP/pi.c
+END
+bio.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/16/trunk/indexer_JPIP/bio.c
+END
+cio.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/16/trunk/indexer_JPIP/cio.c
+END
+tcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/16/trunk/indexer_JPIP/tcd.c
+END
+pi.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/16/trunk/indexer_JPIP/pi.h
+END
+bio.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/16/trunk/indexer_JPIP/bio.h
+END
+tcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/8/trunk/indexer_JPIP/tcd.h
+END
+cio.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/16/trunk/indexer_JPIP/cio.h
+END
+t2.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/16/trunk/indexer_JPIP/t2.c
+END
+fix.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/8/trunk/indexer_JPIP/fix.c
+END
+index_create.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/552/trunk/indexer_JPIP/index_create.c
+END
+t2.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/8/trunk/indexer_JPIP/t2.h
+END
+int.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/16/trunk/indexer_JPIP/int.c
+END
+jp2.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/552/trunk/indexer_JPIP/jp2.c
+END
+j2k.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/64/trunk/indexer_JPIP/j2k.h
+END
+fix.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/8/trunk/indexer_JPIP/fix.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/441/trunk/indexer_JPIP/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/8/trunk/indexer_JPIP/Makefile
+END

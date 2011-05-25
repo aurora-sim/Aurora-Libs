@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/184/tags/start/jpwl/decoder/jpwldec
+END
+j2k_to_image.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/184/tags/start/jpwl/decoder/jpwldec/j2k_to_image.dsp
+END
+image_to_j2k.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/184/tags/start/jpwl/decoder/jpwldec/image_to_j2k.dsp
+END
+j2k_to_image.sln
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/184/tags/start/jpwl/decoder/jpwldec/j2k_to_image.sln
+END
+j2k_to_image.ncb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/184/tags/start/jpwl/decoder/jpwldec/j2k_to_image.ncb
+END
+image_to_j2k.ncb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/184/tags/start/jpwl/decoder/jpwldec/image_to_j2k.ncb
+END
+image_to_j2k.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/184/tags/start/jpwl/decoder/jpwldec/image_to_j2k.vcproj
+END
+j2k_to_image.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/184/tags/start/jpwl/decoder/jpwldec/j2k_to_image.vcproj
+END
+j2k_to_image.suo
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/184/tags/start/jpwl/decoder/jpwldec/j2k_to_image.suo
+END
+convert.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/184/tags/start/jpwl/decoder/jpwldec/convert.c
+END
+convert.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/184/tags/start/jpwl/decoder/jpwldec/convert.h
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/184/tags/start/jpwl/decoder/jpwldec/readme.txt
+END
+image_to_j2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/184/tags/start/jpwl/decoder/jpwldec/image_to_j2k.c
+END
+j2k_to_image.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/184/tags/start/jpwl/decoder/jpwldec/j2k_to_image.c
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/184/tags/start/jpwl/decoder/jpwldec/.cvsignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/184/tags/start/jpwl/decoder/jpwldec/Makefile
+END

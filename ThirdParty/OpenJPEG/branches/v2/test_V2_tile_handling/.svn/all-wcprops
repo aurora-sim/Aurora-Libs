@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/589/branches/v2/test_V2_tile_handling
+END
+test_encoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/577/branches/v2/test_V2_tile_handling/test_encoder.c
+END
+test_decoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/577/branches/v2/test_V2_tile_handling/test_decoder.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/589/branches/v2/test_V2_tile_handling/CMakeLists.txt
+END

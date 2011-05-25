@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/571379/logging/log4net/trunk/src/site/xdoc/release
+END
+config-examples.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/559731/logging/log4net/trunk/src/site/xdoc/release/config-examples.xml
+END
+release-notes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/559731/logging/log4net/trunk/src/site/xdoc/release/release-notes.xml
+END
+faq.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/559731/logging/log4net/trunk/src/site/xdoc/release/faq.xml
+END
+framework-support.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/559731/logging/log4net/trunk/src/site/xdoc/release/framework-support.xml
+END
+example-apps.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/559731/logging/log4net/trunk/src/site/xdoc/release/example-apps.xml
+END
+building.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/559731/logging/log4net/trunk/src/site/xdoc/release/building.xml
+END
+features.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/559731/logging/log4net/trunk/src/site/xdoc/release/features.xml
+END

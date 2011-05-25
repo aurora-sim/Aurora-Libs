@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/394/tags/version.1.2/jpwl
+END
+LibOpenJPEG_JPWL.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/394/tags/version.1.2/jpwl/LibOpenJPEG_JPWL.dsp
+END
+JPWL_image_to_j2k.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/394/tags/version.1.2/jpwl/JPWL_image_to_j2k.dsw
+END
+jpwl.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/394/tags/version.1.2/jpwl/jpwl.h
+END
+JPWL_j2k_to_image.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/394/tags/version.1.2/jpwl/JPWL_j2k_to_image.dsw
+END
+jpwl_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/394/tags/version.1.2/jpwl/jpwl_lib.c
+END
+rs.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/394/tags/version.1.2/jpwl/rs.c
+END
+crc.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/394/tags/version.1.2/jpwl/crc.c
+END
+rs.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/394/tags/version.1.2/jpwl/rs.h
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/394/tags/version.1.2/jpwl/README.txt
+END
+JPWL_j2k_to_image.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/394/tags/version.1.2/jpwl/JPWL_j2k_to_image.dsp
+END
+JPWL_image_to_j2k.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/394/tags/version.1.2/jpwl/JPWL_image_to_j2k.dsp
+END
+crc.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/394/tags/version.1.2/jpwl/crc.h
+END
+jpwl.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/394/tags/version.1.2/jpwl/jpwl.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/394/tags/version.1.2/jpwl/Makefile
+END

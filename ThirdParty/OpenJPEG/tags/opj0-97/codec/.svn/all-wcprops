@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/187/tags/opj0-97/codec
+END
+j2k_to_image.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/187/tags/opj0-97/codec/j2k_to_image.dsp
+END
+image_to_j2k.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/187/tags/opj0-97/codec/image_to_j2k.dsp
+END
+convert.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/187/tags/opj0-97/codec/convert.c
+END
+convert.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/187/tags/opj0-97/codec/convert.h
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/187/tags/opj0-97/codec/readme.txt
+END
+image_to_j2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/187/tags/opj0-97/codec/image_to_j2k.c
+END
+j2k_to_image.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/187/tags/opj0-97/codec/j2k_to_image.c
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/187/tags/opj0-97/codec/.cvsignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/187/tags/opj0-97/codec/Makefile
+END

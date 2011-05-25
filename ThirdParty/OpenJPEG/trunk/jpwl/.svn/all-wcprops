@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/504/trunk/jpwl
+END
+LibOpenJPEG_JPWL.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/504/trunk/jpwl/LibOpenJPEG_JPWL.dsp
+END
+JPWL_j2k_to_image.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/315/trunk/jpwl/JPWL_j2k_to_image.dsw
+END
+JPWL_image_to_j2k.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/315/trunk/jpwl/JPWL_image_to_j2k.dsw
+END
+jpwl_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/504/trunk/jpwl/jpwl_lib.c
+END
+crc.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/347/trunk/jpwl/crc.c
+END
+jpwl.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/504/trunk/jpwl/jpwl.c
+END
+crc.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/347/trunk/jpwl/crc.h
+END
+jpwl.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/504/trunk/jpwl/jpwl.h
+END
+rs.c
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/347/trunk/jpwl/rs.c
+END
+rs.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/504/trunk/jpwl/rs.h
+END
+JPWL_image_to_j2k.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/483/trunk/jpwl/JPWL_image_to_j2k.dsp
+END
+JPWL_j2k_to_image.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/504/trunk/jpwl/JPWL_j2k_to_image.dsp
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/347/trunk/jpwl/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/504/trunk/jpwl/Makefile
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/435/trunk/jpwl/CMakeLists.txt
+END

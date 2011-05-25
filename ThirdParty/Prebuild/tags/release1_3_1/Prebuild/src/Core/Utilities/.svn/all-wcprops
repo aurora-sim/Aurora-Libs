@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Utilities
+END
+Helper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Utilities/Helper.cs
+END
+Log.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Utilities/Log.cs
+END
+CommandLineCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Utilities/CommandLineCollection.cs
+END
+Preprocessor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Utilities/Preprocessor.cs
+END
+CurrentDirectory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Utilities/CurrentDirectory.cs
+END

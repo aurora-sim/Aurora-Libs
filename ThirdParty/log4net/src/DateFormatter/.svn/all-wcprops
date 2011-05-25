@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/DateFormatter
+END
+Iso8601DateFormatter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/DateFormatter/Iso8601DateFormatter.cs
+END
+SimpleDateFormatter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/DateFormatter/SimpleDateFormatter.cs
+END
+DateTimeDateFormatter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/DateFormatter/DateTimeDateFormatter.cs
+END
+AbsoluteTimeDateFormatter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/DateFormatter/AbsoluteTimeDateFormatter.cs
+END
+IDateFormatter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/DateFormatter/IDateFormatter.cs
+END

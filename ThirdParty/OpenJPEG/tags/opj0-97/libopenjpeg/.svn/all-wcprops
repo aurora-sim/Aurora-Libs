@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg
+END
+dwt.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/dwt.c
+END
+raw.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/raw.h
+END
+tgt.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/tgt.c
+END
+dwt.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/dwt.h
+END
+tgt.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/tgt.h
+END
+openjpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/openjpeg.h
+END
+j2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/j2k.c
+END
+int.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/int.c
+END
+jp2.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/jp2.c
+END
+j2k.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/j2k.h
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/.cvsignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/Makefile
+END
+jpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/jpt.c
+END
+int.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/int.h
+END
+jp2.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/jp2.h
+END
+jpt.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/jpt.h
+END
+pi.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/pi.c
+END
+bio.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/bio.c
+END
+tcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/tcd.c
+END
+cio.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/cio.c
+END
+pi.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/pi.h
+END
+bio.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/bio.h
+END
+cio.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/cio.h
+END
+tcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/tcd.h
+END
+mqc.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/mqc.c
+END
+mct.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/mct.c
+END
+t1.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/t1.c
+END
+t2.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/t2.c
+END
+mqc.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/mqc.h
+END
+fix.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/fix.c
+END
+mct.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/mct.h
+END
+t1.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/t1.h
+END
+raw.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/raw.c
+END
+t2.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/t2.h
+END
+fix.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/187/tags/opj0-97/libopenjpeg/fix.h
+END

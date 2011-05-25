@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering
+END
+ITemplateLoader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/ITemplateLoader.cs
+END
+TinyTemplate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/TinyTemplate.cs
+END
+TemplateGenerator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/TemplateGenerator.cs
+END
+resourcetest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/resourcetest.xml
+END
+TemplateInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/TemplateInfo.cs
+END
+ITinyTemplate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/ITinyTemplate.cs
+END
+TemplateException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/TemplateException.cs
+END
+ITemplateGenerator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/ITemplateGenerator.cs
+END
+ITemplateInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/ITemplateInfo.cs
+END
+CodeGeneratorException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/CodeGeneratorException.cs
+END
+TemplateArguments.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/TemplateArguments.cs
+END
+TemplateLoader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/TemplateLoader.cs
+END
+FileTemplateLoader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/FileTemplateLoader.cs
+END
+resourcetest.haml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/resourcetest.haml
+END
+TemplateCompiler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/TemplateCompiler.cs
+END
+TemplateManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/TemplateManager.cs
+END
+ResourceTemplateLoader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/ResourceTemplateLoader.cs
+END

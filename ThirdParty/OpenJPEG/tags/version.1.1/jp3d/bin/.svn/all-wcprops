@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/337/tags/version.1.1/jp3d/bin
+END
+LibJp3dVM.lib
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/337/tags/version.1.1/jp3d/bin/LibJp3dVM.lib
+END
+jp3d_vm_enc.exe
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/337/tags/version.1.1/jp3d/bin/jp3d_vm_enc.exe
+END
+OpenJP3D.dll
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/337/tags/version.1.1/jp3d/bin/OpenJP3D.dll
+END
+openjpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/337/tags/version.1.1/jp3d/bin/openjpeg.h
+END
+jp3d_vm_dec.exe
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/337/tags/version.1.1/jp3d/bin/jp3d_vm_dec.exe
+END

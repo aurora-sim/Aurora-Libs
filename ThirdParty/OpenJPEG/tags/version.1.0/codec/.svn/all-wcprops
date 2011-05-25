@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/302/tags/version.1.0/codec
+END
+j2k_to_image.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/302/tags/version.1.0/codec/j2k_to_image.dsp
+END
+image_to_j2k.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/302/tags/version.1.0/codec/image_to_j2k.dsp
+END
+convert.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/302/tags/version.1.0/codec/convert.c
+END
+convert.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/302/tags/version.1.0/codec/convert.h
+END
+j2k_to_image.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/302/tags/version.1.0/codec/j2k_to_image.dsw
+END
+image_to_j2k.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/302/tags/version.1.0/codec/image_to_j2k.dsw
+END
+image_to_j2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/302/tags/version.1.0/codec/image_to_j2k.c
+END
+j2k_to_image.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/302/tags/version.1.0/codec/j2k_to_image.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/302/tags/version.1.0/codec/CMakeLists.txt
+END

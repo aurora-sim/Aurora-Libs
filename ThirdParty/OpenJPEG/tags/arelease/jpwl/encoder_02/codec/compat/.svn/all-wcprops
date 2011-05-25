@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder_02/codec/compat
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder_02/codec/compat/getopt.c
+END
+getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder_02/codec/compat/getopt.h
+END

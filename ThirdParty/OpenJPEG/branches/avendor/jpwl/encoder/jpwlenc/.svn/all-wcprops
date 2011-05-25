@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/266/branches/avendor/jpwl/encoder/jpwlenc
+END
+j2k_to_image.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/182/branches/avendor/jpwl/encoder/jpwlenc/j2k_to_image.dsp
+END
+image_to_j2k.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/266/branches/avendor/jpwl/encoder/jpwlenc/image_to_j2k.dsp
+END
+image_to_j2k.sln
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/182/branches/avendor/jpwl/encoder/jpwlenc/image_to_j2k.sln
+END
+image_to_j2k.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/266/branches/avendor/jpwl/encoder/jpwlenc/image_to_j2k.dsw
+END
+image_to_j2k.opt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/182/branches/avendor/jpwl/encoder/jpwlenc/image_to_j2k.opt
+END
+image_to_j2k.ncb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/182/branches/avendor/jpwl/encoder/jpwlenc/image_to_j2k.ncb
+END
+image_to_j2k.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/182/branches/avendor/jpwl/encoder/jpwlenc/image_to_j2k.vcproj
+END
+image_to_j2k.suo
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/182/branches/avendor/jpwl/encoder/jpwlenc/image_to_j2k.suo
+END
+convert.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/182/branches/avendor/jpwl/encoder/jpwlenc/convert.c
+END
+convert.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/182/branches/avendor/jpwl/encoder/jpwlenc/convert.h
+END
+irdeto.j2k
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/182/branches/avendor/jpwl/encoder/jpwlenc/irdeto.j2k
+END
+image_to_j2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/182/branches/avendor/jpwl/encoder/jpwlenc/image_to_j2k.c
+END
+image_to_j2k.plg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/182/branches/avendor/jpwl/encoder/jpwlenc/image_to_j2k.plg
+END
+j2k_to_image.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/182/branches/avendor/jpwl/encoder/jpwlenc/j2k_to_image.c
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/182/branches/avendor/jpwl/encoder/jpwlenc/.cvsignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/266/branches/avendor/jpwl/encoder/jpwlenc/Makefile
+END

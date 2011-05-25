@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/6/branches/UCL/codec
+END
+convert.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/6/branches/UCL/codec/convert.c
+END
+convert.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/6/branches/UCL/codec/convert.h
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/6/branches/UCL/codec/readme.txt
+END
+image_to_j2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6/branches/UCL/codec/image_to_j2k.c
+END
+j2k_to_image.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6/branches/UCL/codec/j2k_to_image.c
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/6/branches/UCL/codec/.cvsignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/6/branches/UCL/codec/Makefile
+END

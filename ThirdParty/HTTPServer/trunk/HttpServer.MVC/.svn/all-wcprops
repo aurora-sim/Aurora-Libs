@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC
+END
+httpserver.pfx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/httpserver.pfx
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/app.config
+END
+HttpServer.MVC.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/HttpServer.MVC.csproj
+END
+test.snk
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/test.snk
+END
+ControllerModule.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/ControllerModule.cs
+END
+FormValidator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/FormValidator.cs
+END

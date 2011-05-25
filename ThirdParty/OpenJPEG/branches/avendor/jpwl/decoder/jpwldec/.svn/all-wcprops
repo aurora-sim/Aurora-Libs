@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/266/branches/avendor/jpwl/decoder/jpwldec
+END
+j2k_to_image.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/266/branches/avendor/jpwl/decoder/jpwldec/j2k_to_image.dsp
+END
+image_to_j2k.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/266/branches/avendor/jpwl/decoder/jpwldec/image_to_j2k.dsp
+END
+j2k_to_image.sln
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/182/branches/avendor/jpwl/decoder/jpwldec/j2k_to_image.sln
+END
+j2k_to_image.ncb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/182/branches/avendor/jpwl/decoder/jpwldec/j2k_to_image.ncb
+END
+image_to_j2k.ncb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/182/branches/avendor/jpwl/decoder/jpwldec/image_to_j2k.ncb
+END
+image_to_j2k.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/182/branches/avendor/jpwl/decoder/jpwldec/image_to_j2k.vcproj
+END
+j2k_to_image.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/182/branches/avendor/jpwl/decoder/jpwldec/j2k_to_image.vcproj
+END
+j2k_to_image.suo
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/182/branches/avendor/jpwl/decoder/jpwldec/j2k_to_image.suo
+END
+convert.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/182/branches/avendor/jpwl/decoder/jpwldec/convert.c
+END
+convert.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/182/branches/avendor/jpwl/decoder/jpwldec/convert.h
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/182/branches/avendor/jpwl/decoder/jpwldec/readme.txt
+END
+image_to_j2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/182/branches/avendor/jpwl/decoder/jpwldec/image_to_j2k.c
+END
+j2k_to_image.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/182/branches/avendor/jpwl/decoder/jpwldec/j2k_to_image.c
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/182/branches/avendor/jpwl/decoder/jpwldec/.cvsignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/266/branches/avendor/jpwl/decoder/jpwldec/Makefile
+END

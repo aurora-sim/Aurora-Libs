@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Templates
+END
+TinyTemplate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Templates/TinyTemplate.cs
+END
+TemplateEngine.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Templates/TemplateEngine.cs
+END
+TemplateProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Templates/TemplateProvider.cs
+END

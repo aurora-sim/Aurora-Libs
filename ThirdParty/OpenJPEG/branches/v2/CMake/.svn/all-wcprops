@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/611/branches/v2/CMake
+END
+mymachine_openjpeg.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/583/branches/v2/CMake/mymachine_openjpeg.cmake
+END
+OpenJPEGConfig.cmake.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/611/branches/v2/CMake/OpenJPEGConfig.cmake.in
+END
+CTestCustom.cmake.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/580/branches/v2/CMake/CTestCustom.cmake.in
+END
+FindFreeImage.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/586/branches/v2/CMake/FindFreeImage.cmake
+END
+Free_CMakeImport.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/580/branches/v2/CMake/Free_CMakeImport.cmake
+END

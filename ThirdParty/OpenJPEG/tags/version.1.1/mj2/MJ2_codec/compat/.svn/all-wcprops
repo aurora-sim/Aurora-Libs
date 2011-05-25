@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/337/tags/version.1.1/mj2/MJ2_codec/compat
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/337/tags/version.1.1/mj2/MJ2_codec/compat/getopt.c
+END
+getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/337/tags/version.1.1/mj2/MJ2_codec/compat/getopt.h
+END

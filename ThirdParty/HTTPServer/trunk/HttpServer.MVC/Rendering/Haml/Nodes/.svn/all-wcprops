@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/Haml/Nodes
+END
+ClassNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/Haml/Nodes/ClassNode.cs
+END
+SilentCodeNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/Haml/Nodes/SilentCodeNode.cs
+END
+TagNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/Haml/Nodes/TagNode.cs
+END
+IdNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/Haml/Nodes/IdNode.cs
+END
+PartialNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/Haml/Nodes/PartialNode.cs
+END
+DocTypeTag.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/Haml/Nodes/DocTypeTag.cs
+END
+Node.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/Haml/Nodes/Node.cs
+END
+DisplayCodeNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/Haml/Nodes/DisplayCodeNode.cs
+END
+AttributeNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/Haml/Nodes/AttributeNode.cs
+END
+ChildNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/Haml/Nodes/ChildNode.cs
+END
+TextNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/Haml/Nodes/TextNode.cs
+END

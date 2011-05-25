@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/scripts
+END
+MonoDevelop.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/scripts/MonoDevelop.sh
+END
+SharpDevelop.bat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/scripts/SharpDevelop.bat
+END
+VS2002.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/scripts/VS2002.bat
+END
+VS2003.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/scripts/VS2003.bat
+END
+SharpDevelop2.bat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/scripts/SharpDevelop2.bat
+END
+VS2005.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/scripts/VS2005.bat
+END
+nant.bat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/scripts/nant.bat
+END
+prebuild
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/scripts/prebuild
+END
+Clean.bat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/scripts/Clean.bat
+END
+nant.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/scripts/nant.sh
+END
+Help.bat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/scripts/Help.bat
+END

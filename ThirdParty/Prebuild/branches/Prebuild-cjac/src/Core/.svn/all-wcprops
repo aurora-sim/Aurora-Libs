@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/dnpb/!svn/ver/228/branches/Prebuild-cjac/src/Core
+END
+Kernel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/dnpb/!svn/ver/215/branches/Prebuild-cjac/src/Core/Kernel.cs
+END
+UnknownLanguageException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/dnpb/!svn/ver/210/branches/Prebuild-cjac/src/Core/UnknownLanguageException.cs
+END
+WarningException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/dnpb/!svn/ver/210/branches/Prebuild-cjac/src/Core/WarningException.cs
+END
+FatalException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/dnpb/!svn/ver/210/branches/Prebuild-cjac/src/Core/FatalException.cs
+END

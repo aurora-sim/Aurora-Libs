@@ -1,0 +1,4 @@
+E:\Aurora\Aurora-Sim\bin\SmartThreadPool.dll.mdb
+E:\Aurora\Aurora-Sim\bin\SmartThreadPool.dll
+E:\Aurora\Aurora-Sim\ThirdParty\SmartThreadPool\obj\x86\Debug\SmartThreadPool.dll
+E:\Aurora\Aurora-Sim\ThirdParty\SmartThreadPool\obj\x86\Debug\SmartThreadPool.dll.mdb

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Sessions
+END
+IHttpSession.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Sessions/IHttpSession.cs
+END
+MemorySession.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Sessions/MemorySession.cs
+END
+HttpSessionStore.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Sessions/HttpSessionStore.cs
+END
+HttpSession.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Sessions/HttpSession.cs
+END
+IHttpSessionStore.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Sessions/IHttpSessionStore.cs
+END
+MemorySessionStore.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Sessions/MemorySessionStore.cs
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/dnpb/!svn/ver/210/branches/Prebuild-cjac/src/Core/Utilities
+END
+Helper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/dnpb/!svn/ver/210/branches/Prebuild-cjac/src/Core/Utilities/Helper.cs
+END
+Log.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/dnpb/!svn/ver/210/branches/Prebuild-cjac/src/Core/Utilities/Log.cs
+END
+CommandLineCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/dnpb/!svn/ver/210/branches/Prebuild-cjac/src/Core/Utilities/CommandLineCollection.cs
+END
+CurrentDirectory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/dnpb/!svn/ver/210/branches/Prebuild-cjac/src/Core/Utilities/CurrentDirectory.cs
+END

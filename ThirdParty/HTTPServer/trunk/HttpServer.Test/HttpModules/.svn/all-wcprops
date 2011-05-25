@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/HttpModules
+END
+ResourceFileModuleTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/HttpModules/ResourceFileModuleTest.cs
+END
+ReverseProxyTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/HttpModules/ReverseProxyTest.cs
+END
+TextFile1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/HttpModules/TextFile1.txt
+END
+TestController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/HttpModules/TestController.cs
+END
+FileModuleTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/HttpModules/FileModuleTest.cs
+END
+Forbidden.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/HttpModules/Forbidden.xml
+END
+ProxyTestModule.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/HttpModules/ProxyTestModule.cs
+END
+ControllerModuleTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/HttpModules/ControllerModuleTest.cs
+END

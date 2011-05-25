@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="log4net.vs2008">
+</Property><Property Name="Solution File" Value="E:\Aurora\Aurora-Sim\ThirdParty\log4net\src\log4net.vs2008.sln">
+</Property><Property Name="Date" Value="Saturday, April 09, 2011">
+</Property><Property Name="Time" Value="11:05">
+</Property></Properties><Event ErrorLevel="1" Project="log4net.vs2008" Source="log4net.vs2008.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="log4net.vs2008" Source="log4net.vs2008.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="log4net.vs2008" Source="log4net.vs2008.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="log4net.Tests.vs2008" Source="..\tests\src\log4net.Tests.vs2008.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="log4net.Tests.vs2008" Source="..\tests\src\log4net.Tests.vs2008.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="log4net.vs2008.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="log4net.vs2008.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="log4net.vs2008" Source="log4net.vs2008.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="log4net.Tests.vs2008" Source="..\tests\src\log4net.Tests.vs2008.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

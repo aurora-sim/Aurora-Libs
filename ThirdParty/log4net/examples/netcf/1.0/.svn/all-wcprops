@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/examples/netcf/1.0
+END
+nant.config
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/examples/netcf/1.0/nant.config
+END
+cs-examples.sln
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/311939/logging/log4net/trunk/examples/netcf/1.0/cs-examples.sln
+END
+nant.build
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/examples/netcf/1.0/nant.build
+END
+vb-examples.sln
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/311939/logging/log4net/trunk/examples/netcf/1.0/vb-examples.sln
+END

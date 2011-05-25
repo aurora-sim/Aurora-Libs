@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg
+END
+dwt.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/dwt.c
+END
+raw.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/raw.h
+END
+tgt.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/tgt.c
+END
+dwt.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/dwt.h
+END
+tgt.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/tgt.h
+END
+openjpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/openjpeg.h
+END
+j2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/j2k.c
+END
+int.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/int.c
+END
+jp2.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/jp2.c
+END
+j2k.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/j2k.h
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/.cvsignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/Makefile
+END
+jpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/jpt.c
+END
+int.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/int.h
+END
+jp2.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/jp2.h
+END
+jpw.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/jpw.c
+END
+jpt.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/jpt.h
+END
+jpw.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/jpw.h
+END
+pi.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/pi.c
+END
+bio.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/bio.c
+END
+tcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/tcd.c
+END
+cio.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/cio.c
+END
+pi.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/pi.h
+END
+bio.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/bio.h
+END
+cio.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/cio.h
+END
+tcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/tcd.h
+END
+mqc.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/mqc.c
+END
+mct.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/mct.c
+END
+t1.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/t1.c
+END
+rs.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/rs.c
+END
+t2.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/t2.c
+END
+mqc.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/mqc.h
+END
+fix.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/fix.c
+END
+mct.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/mct.h
+END
+rs.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/rs.h
+END
+t1.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/t1.h
+END
+raw.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/raw.c
+END
+t2.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/t2.h
+END
+fix.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/tags/arelease/jpwl/encoder/libopenjpeg/fix.h
+END

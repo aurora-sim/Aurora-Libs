@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/604/branches/v2/codec
+END
+j2k_to_image.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/518/branches/v2/codec/j2k_to_image.dsp
+END
+image_to_j2k.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/518/branches/v2/codec/image_to_j2k.dsp
+END
+image_to_j2k.sln
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/518/branches/v2/codec/image_to_j2k.sln
+END
+j2k_to_image.sln
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/518/branches/v2/codec/j2k_to_image.sln
+END
+image_to_j2k.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/518/branches/v2/codec/image_to_j2k.dsw
+END
+j2k_to_image.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/518/branches/v2/codec/j2k_to_image.dsw
+END
+index.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/536/branches/v2/codec/index.c
+END
+image_to_j2k.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/518/branches/v2/codec/image_to_j2k.vcproj
+END
+j2k_dump.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/596/branches/v2/codec/j2k_dump.c
+END
+j2k_to_image.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/518/branches/v2/codec/j2k_to_image.vcproj
+END
+index.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/518/branches/v2/codec/index.h
+END
+convert.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/593/branches/v2/codec/convert.c
+END
+convert.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/518/branches/v2/codec/convert.h
+END
+j2k_to_image.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/598/branches/v2/codec/j2k_to_image.c
+END
+dirent.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/518/branches/v2/codec/dirent.h
+END
+image_to_j2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/598/branches/v2/codec/image_to_j2k.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/604/branches/v2/codec/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/518/branches/v2/codec/Makefile
+END

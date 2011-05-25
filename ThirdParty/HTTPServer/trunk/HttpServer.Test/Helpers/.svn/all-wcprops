@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Helpers
+END
+XmlHelperTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Helpers/XmlHelperTest.cs
+END
+ResourceManagerTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Helpers/ResourceManagerTest.cs
+END
+FormHelperTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Helpers/FormHelperTest.cs
+END
+PrototypeTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Helpers/PrototypeTest.cs
+END
+FormValidatorTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Helpers/FormValidatorTest.cs
+END

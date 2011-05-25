@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 133
+*.gpState
+*.suo
+*.user
+_ReSharper.GoogleAPI
+_ReSharper.GoogleAPI.Compact
+_ReSharper.GoogleAPI.Net20
+_ReSharper.GoogleAPI.Silverlight
+
+END

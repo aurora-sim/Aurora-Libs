@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/268/tags/arelease/jpwl/decoder_02/jpwldec/compat
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/268/tags/arelease/jpwl/decoder_02/jpwldec/compat/getopt.c
+END
+getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/268/tags/arelease/jpwl/decoder_02/jpwldec/compat/getopt.h
+END

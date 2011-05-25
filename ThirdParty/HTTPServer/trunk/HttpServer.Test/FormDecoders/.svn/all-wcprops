@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/FormDecoders
+END
+DecoderProviderTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/FormDecoders/DecoderProviderTest.cs
+END
+MyDefaultDecoder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/FormDecoders/MyDefaultDecoder.cs
+END
+XmlDecoderTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/FormDecoders/XmlDecoderTest.cs
+END
+MultipartDecoderTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/FormDecoders/MultipartDecoderTest.cs
+END
+UrlDecoderTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/FormDecoders/UrlDecoderTest.cs
+END

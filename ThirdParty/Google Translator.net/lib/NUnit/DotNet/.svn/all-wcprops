@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/135/trunk/lib/NUnit/DotNet
+END
+nunit.framework.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/135/trunk/lib/NUnit/DotNet/nunit.framework.dll
+END
+nunit.framework.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/135/trunk/lib/NUnit/DotNet/nunit.framework.xml
+END

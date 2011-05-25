@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/607475/logging/log4net/trunk/src/Util/TypeConverters
+END
+ConversionNotSupportedException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/506790/logging/log4net/trunk/src/Util/TypeConverters/ConversionNotSupportedException.cs
+END
+IConvertTo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Util/TypeConverters/IConvertTo.cs
+END
+PatternStringConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Util/TypeConverters/PatternStringConverter.cs
+END
+IConvertFrom.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Util/TypeConverters/IConvertFrom.cs
+END
+TypeConverterAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Util/TypeConverters/TypeConverterAttribute.cs
+END
+EncodingConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Util/TypeConverters/EncodingConverter.cs
+END
+ConverterRegistry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/607475/logging/log4net/trunk/src/Util/TypeConverters/ConverterRegistry.cs
+END
+PatternLayoutConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Util/TypeConverters/PatternLayoutConverter.cs
+END
+IPAddressConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/506790/logging/log4net/trunk/src/Util/TypeConverters/IPAddressConverter.cs
+END
+BooleanConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Util/TypeConverters/BooleanConverter.cs
+END
+TypeConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Util/TypeConverters/TypeConverter.cs
+END

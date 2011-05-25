@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Controllers
+END
+RequestControllerTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Controllers/RequestControllerTest.cs
+END
+MyStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Controllers/MyStream.cs
+END
+MyController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Controllers/MyController.cs
+END
+ControllerTester.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Controllers/ControllerTester.cs
+END

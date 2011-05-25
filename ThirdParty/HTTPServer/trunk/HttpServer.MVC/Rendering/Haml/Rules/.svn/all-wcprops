@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/Haml/Rules
+END
+AttributesRule.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/Haml/Rules/AttributesRule.cs
+END
+Rule.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/Haml/Rules/Rule.cs
+END
+NewLineRule.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.MVC/Rendering/Haml/Rules/NewLineRule.cs
+END

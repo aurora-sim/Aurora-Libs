@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/302/tags/version.1.0/codec/compat
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/302/tags/version.1.0/codec/compat/getopt.c
+END
+getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/302/tags/version.1.0/codec/compat/getopt.h
+END

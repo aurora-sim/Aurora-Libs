@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/135/trunk/src
+END
+GoogleAPI.snk
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/135/trunk/src/GoogleAPI.snk
+END
+GoogleAPI.sln
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/135/trunk/src/GoogleAPI.sln
+END
+GoogleAPI.Compact.sln
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/135/trunk/src/GoogleAPI.Compact.sln
+END
+GoogleAPI.Net20.sln
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/135/trunk/src/GoogleAPI.Net20.sln
+END
+GoogleAPI.Silverlight.sln
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/135/trunk/src/GoogleAPI.Silverlight.sln
+END

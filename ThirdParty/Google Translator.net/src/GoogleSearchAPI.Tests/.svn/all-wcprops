@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI.Tests
+END
+TestNewsTopic.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI.Tests/TestNewsTopic.cs
+END
+TestColorization.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI.Tests/TestColorization.cs
+END
+GoogleSearchAPI.Tests.Compact.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI.Tests/GoogleSearchAPI.Tests.Compact.csproj
+END
+TestImageSize.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI.Tests/TestImageSize.cs
+END
+TestGlocalSearcher.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI.Tests/TestGlocalSearcher.cs
+END
+TestGbookSearcher.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI.Tests/TestGbookSearcher.cs
+END
+TestGpatentSearcher.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI.Tests/TestGpatentSearcher.cs
+END
+GoogleSearchAPI.Tests.Net20.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI.Tests/GoogleSearchAPI.Tests.Net20.csproj
+END
+TestDuplicateFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI.Tests/TestDuplicateFilter.cs
+END
+TestImageColor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI.Tests/TestImageColor.cs
+END
+TestLanguage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI.Tests/TestLanguage.cs
+END
+GoogleSearchAPI.Tests.Silverlight.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI.Tests/GoogleSearchAPI.Tests.Silverlight.csproj
+END
+TestImageFileType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI.Tests/TestImageFileType.cs
+END
+TestImageType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI.Tests/TestImageType.cs
+END
+TestNewsEdition.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI.Tests/TestNewsEdition.cs
+END
+GoogleSearchAPI.Tests.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI.Tests/GoogleSearchAPI.Tests.csproj
+END
+TestSortType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI.Tests/TestSortType.cs
+END
+TestGvideoSearcher.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI.Tests/TestGvideoSearcher.cs
+END
+TestLocalResultType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI.Tests/TestLocalResultType.cs
+END
+TestGnewsSearcher.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI.Tests/TestGnewsSearcher.cs
+END
+TestGwebSearcher.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI.Tests/TestGwebSearcher.cs
+END
+AsyncUtility.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI.Tests/AsyncUtility.cs
+END
+TestGimageSearcher.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI.Tests/TestGimageSearcher.cs
+END
+TestSafeLevel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI.Tests/TestSafeLevel.cs
+END
+TestGblogSearcher.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI.Tests/TestGblogSearcher.cs
+END
+TestResultSize.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI.Tests/TestResultSize.cs
+END

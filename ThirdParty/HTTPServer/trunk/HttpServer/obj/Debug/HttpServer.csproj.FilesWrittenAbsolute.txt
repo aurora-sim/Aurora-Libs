@@ -1,0 +1,2 @@
+E:\Aurora\Aurora-Sim\bin\HttpServer_OpenSim.dll
+E:\Aurora\Aurora-Sim\ThirdParty\HTTPServer\trunk\HttpServer\obj\Debug\HttpServer_OpenSim.dll

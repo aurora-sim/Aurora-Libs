@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/opensim-libs/!svn/ver/108/HttpServer/trunk/HttpServer/HttpModules
+END
+ResourceFileModule.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/opensim-libs/!svn/ver/108/HttpServer/trunk/HttpServer/HttpModules/ResourceFileModule.cs
+END
+HttpModuleExceptionEventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/HttpModules/HttpModuleExceptionEventArgs.cs
+END
+ReverseProxyModule.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/HttpModules/ReverseProxyModule.cs
+END
+FileModule.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/opensim-libs/!svn/ver/108/HttpServer/trunk/HttpServer/HttpModules/FileModule.cs
+END
+HttpModule.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/HttpModules/HttpModule.cs
+END
+WebSiteModule.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/HttpModules/WebSiteModule.cs
+END

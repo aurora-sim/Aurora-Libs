@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/184/tags/start/jpwl/encoder/jpwlenc
+END
+j2k_to_image.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/184/tags/start/jpwl/encoder/jpwlenc/j2k_to_image.dsp
+END
+image_to_j2k.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/184/tags/start/jpwl/encoder/jpwlenc/image_to_j2k.dsp
+END
+image_to_j2k.sln
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/184/tags/start/jpwl/encoder/jpwlenc/image_to_j2k.sln
+END
+image_to_j2k.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/184/tags/start/jpwl/encoder/jpwlenc/image_to_j2k.dsw
+END
+image_to_j2k.opt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/184/tags/start/jpwl/encoder/jpwlenc/image_to_j2k.opt
+END
+image_to_j2k.ncb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/184/tags/start/jpwl/encoder/jpwlenc/image_to_j2k.ncb
+END
+image_to_j2k.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/184/tags/start/jpwl/encoder/jpwlenc/image_to_j2k.vcproj
+END
+image_to_j2k.suo
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/184/tags/start/jpwl/encoder/jpwlenc/image_to_j2k.suo
+END
+convert.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/184/tags/start/jpwl/encoder/jpwlenc/convert.c
+END
+convert.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/184/tags/start/jpwl/encoder/jpwlenc/convert.h
+END
+irdeto.j2k
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/184/tags/start/jpwl/encoder/jpwlenc/irdeto.j2k
+END
+image_to_j2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/184/tags/start/jpwl/encoder/jpwlenc/image_to_j2k.c
+END
+image_to_j2k.plg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/184/tags/start/jpwl/encoder/jpwlenc/image_to_j2k.plg
+END
+j2k_to_image.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/184/tags/start/jpwl/encoder/jpwlenc/j2k_to_image.c
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/184/tags/start/jpwl/encoder/jpwlenc/.cvsignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/184/tags/start/jpwl/encoder/jpwlenc/Makefile
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/653963/logging/log4net/trunk/src/Repository
+END
+IXmlRepositoryConfigurator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/607475/logging/log4net/trunk/src/Repository/IXmlRepositoryConfigurator.cs
+END
+IBasicRepositoryConfigurator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/653963/logging/log4net/trunk/src/Repository/IBasicRepositoryConfigurator.cs
+END
+ConfigurationChangedEventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/607475/logging/log4net/trunk/src/Repository/ConfigurationChangedEventArgs.cs
+END
+LoggerRepositorySkeleton.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/607475/logging/log4net/trunk/src/Repository/LoggerRepositorySkeleton.cs
+END
+ILoggerRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/607475/logging/log4net/trunk/src/Repository/ILoggerRepository.cs
+END

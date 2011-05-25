@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opensim-libs/!svn/ver/107/HttpServer/trunk/HttpServer/Parser
+END
+BodyEventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Parser/BodyEventArgs.cs
+END
+RequestParserFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Parser/RequestParserFactory.cs
+END
+RequestLineEventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Parser/RequestLineEventArgs.cs
+END
+HttpRequestParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/opensim-libs/!svn/ver/107/HttpServer/trunk/HttpServer/Parser/HttpRequestParser.cs
+END
+HeaderEventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Parser/HeaderEventArgs.cs
+END

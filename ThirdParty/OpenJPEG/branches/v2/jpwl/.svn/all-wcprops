@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/518/branches/v2/jpwl
+END
+LibOpenJPEG_JPWL.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/518/branches/v2/jpwl/LibOpenJPEG_JPWL.dsp
+END
+JPWL_j2k_to_image.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/518/branches/v2/jpwl/JPWL_j2k_to_image.dsw
+END
+JPWL_image_to_j2k.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/518/branches/v2/jpwl/JPWL_image_to_j2k.dsw
+END
+jpwl_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/518/branches/v2/jpwl/jpwl_lib.c
+END
+crc.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/518/branches/v2/jpwl/crc.c
+END
+jpwl.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/518/branches/v2/jpwl/jpwl.c
+END
+crc.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/518/branches/v2/jpwl/crc.h
+END
+jpwl.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/518/branches/v2/jpwl/jpwl.h
+END
+rs.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/518/branches/v2/jpwl/rs.c
+END
+rs.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/518/branches/v2/jpwl/rs.h
+END
+JPWL_image_to_j2k.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/518/branches/v2/jpwl/JPWL_image_to_j2k.dsp
+END
+JPWL_j2k_to_image.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/518/branches/v2/jpwl/JPWL_j2k_to_image.dsp
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/518/branches/v2/jpwl/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/518/branches/v2/jpwl/Makefile
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/518/branches/v2/jpwl/CMakeLists.txt
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/extensions/net/1.0/log4net.Ext.MarshalByRef/cs/src
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/extensions/net/1.0/log4net.Ext.MarshalByRef/cs/src/AssemblyInfo.cs
+END
+MarshalByRefLogManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/extensions/net/1.0/log4net.Ext.MarshalByRef/cs/src/MarshalByRefLogManager.cs
+END
+MarshalByRefLogImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/extensions/net/1.0/log4net.Ext.MarshalByRef/cs/src/MarshalByRefLogImpl.cs
+END
+log4net.Ext.MarshalByRef.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/312230/logging/log4net/trunk/extensions/net/1.0/log4net.Ext.MarshalByRef/cs/src/log4net.Ext.MarshalByRef.csproj
+END

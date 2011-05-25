@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Helpers
+END
+JSHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Helpers/JSHelper.cs
+END
+WebHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Helpers/WebHelper.cs
+END
+GetIdTitle.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Helpers/GetIdTitle.cs
+END
+XmlHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Helpers/XmlHelper.cs
+END
+ResourceManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Helpers/ResourceManager.cs
+END
+FormHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Helpers/FormHelper.cs
+END
+ResourceInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Helpers/ResourceInfo.cs
+END
+ObjectForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Helpers/ObjectForm.cs
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Renderers/HamlSamples
+END
+Test1.haml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Renderers/HamlSamples/Test1.haml
+END
+Test2.haml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Renderers/HamlSamples/Test2.haml
+END
+Test3.haml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Renderers/HamlSamples/Test3.haml
+END
+small.haml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Renderers/HamlSamples/small.haml
+END
+CodeSample.haml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Renderers/HamlSamples/CodeSample.haml
+END
+TestLayout.haml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Renderers/HamlSamples/TestLayout.haml
+END
+code3.haml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Renderers/HamlSamples/code3.haml
+END

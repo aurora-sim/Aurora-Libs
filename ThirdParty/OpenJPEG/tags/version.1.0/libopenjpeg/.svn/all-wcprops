@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg
+END
+dwt.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/dwt.c
+END
+raw.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/raw.h
+END
+tgt.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/tgt.c
+END
+dwt.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/dwt.h
+END
+tgt.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/tgt.h
+END
+openjpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/openjpeg.c
+END
+openjpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/openjpeg.h
+END
+image.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/image.c
+END
+j2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/j2k.c
+END
+image.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/image.h
+END
+jp2.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/jp2.c
+END
+j2k.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/j2k.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/CMakeLists.txt
+END
+jpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/jpt.c
+END
+int.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/int.h
+END
+jp2.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/jp2.h
+END
+jpt.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/jpt.h
+END
+pi.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/pi.c
+END
+bio.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/bio.c
+END
+tcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/tcd.c
+END
+cio.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/cio.c
+END
+j2k_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/j2k_lib.c
+END
+pi.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/pi.h
+END
+bio.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/bio.h
+END
+tcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/tcd.h
+END
+cio.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/cio.h
+END
+mqc.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/mqc.c
+END
+event.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/event.c
+END
+j2k_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/j2k_lib.h
+END
+opj_includes.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/opj_includes.h
+END
+mct.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/mct.c
+END
+t1.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/t1.c
+END
+mqc.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/mqc.h
+END
+t2.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/t2.c
+END
+event.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/event.h
+END
+mct.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/mct.h
+END
+t1.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/t1.h
+END
+raw.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/raw.c
+END
+t2.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/t2.h
+END
+fix.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/301/tags/version.1.0/libopenjpeg/fix.h
+END

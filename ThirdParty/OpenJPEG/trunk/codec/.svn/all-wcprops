@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/603/trunk/codec
+END
+j2k_to_image.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/483/trunk/codec/j2k_to_image.dsp
+END
+image_to_j2k.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/483/trunk/codec/image_to_j2k.dsp
+END
+image_to_j2k.sln
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/481/trunk/codec/image_to_j2k.sln
+END
+j2k_to_image.sln
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/415/trunk/codec/j2k_to_image.sln
+END
+image_to_j2k.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/316/trunk/codec/image_to_j2k.dsw
+END
+j2k_to_image.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/316/trunk/codec/j2k_to_image.dsw
+END
+index.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/535/trunk/codec/index.c
+END
+image_to_j2k.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/481/trunk/codec/image_to_j2k.vcproj
+END
+j2k_dump.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/597/trunk/codec/j2k_dump.c
+END
+j2k_to_image.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/481/trunk/codec/j2k_to_image.vcproj
+END
+index.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/483/trunk/codec/index.h
+END
+convert.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/594/trunk/codec/convert.c
+END
+convert.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/554/trunk/codec/convert.h
+END
+j2k_to_image.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/600/trunk/codec/j2k_to_image.c
+END
+dirent.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/514/trunk/codec/dirent.h
+END
+image_to_j2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/594/trunk/codec/image_to_j2k.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/603/trunk/codec/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/591/trunk/codec/Makefile
+END

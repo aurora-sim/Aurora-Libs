@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/Tutorial/Tutorial5/views/user
+END
+settings.haml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/Tutorial/Tutorial5/views/user/settings.haml
+END
+main.haml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/Tutorial/Tutorial5/views/user/main.haml
+END
+login.haml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/Tutorial/Tutorial5/views/user/login.haml
+END
+ajaxdeluxe.haml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/Tutorial/Tutorial5/views/user/ajaxdeluxe.haml
+END
+info.haml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/Tutorial/Tutorial5/views/user/info.haml
+END

@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/560/branches/v2/mj2
+END
+frames_to_mj2.sln
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/518/branches/v2/mj2/frames_to_mj2.sln
+END
+mj2_to_frames.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/518/branches/v2/mj2/mj2_to_frames.dsw
+END
+MJ2_Wrapper.sln
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/518/branches/v2/mj2/MJ2_Wrapper.sln
+END
+mj2_to_metadata.sln
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/518/branches/v2/mj2/mj2_to_metadata.sln
+END
+mj2_to_frames.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/518/branches/v2/mj2/mj2_to_frames.vcproj
+END
+MJ2_Wrapper.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/518/branches/v2/mj2/MJ2_Wrapper.vcproj
+END
+extract_j2k_from_mj2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/518/branches/v2/mj2/extract_j2k_from_mj2.c
+END
+mj2_to_metadata.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/518/branches/v2/mj2/mj2_to_metadata.vcproj
+END
+meta_out.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/518/branches/v2/mj2/meta_out.c
+END
+meta_out.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/518/branches/v2/mj2/meta_out.h
+END
+mj2_to_metadata_Notes.doc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/518/branches/v2/mj2/mj2_to_metadata_Notes.doc
+END
+frames_to_mj2.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/518/branches/v2/mj2/frames_to_mj2.c
+END
+MJ2_Extractor.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/518/branches/v2/mj2/MJ2_Extractor.dsp
+END
+mj2.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/518/branches/v2/mj2/mj2.c
+END
+mj2_to_metadata.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/518/branches/v2/mj2/mj2_to_metadata.c
+END
+frames_to_mj2.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/518/branches/v2/mj2/frames_to_mj2.dsp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/518/branches/v2/mj2/Makefile
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/518/branches/v2/mj2/CMakeLists.txt
+END
+MJ2_Wrapper.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/518/branches/v2/mj2/MJ2_Wrapper.dsp
+END
+mj2.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/518/branches/v2/mj2/mj2.h
+END
+mj2_to_metadata.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/518/branches/v2/mj2/mj2_to_metadata.dsp
+END
+MJ2_Extractor.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/518/branches/v2/mj2/MJ2_Extractor.dsw
+END
+mj2_to_metadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/518/branches/v2/mj2/mj2_to_metadata.h
+END
+mj2_to_frames.sln
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/518/branches/v2/mj2/mj2_to_frames.sln
+END
+frames_to_mj2.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/518/branches/v2/mj2/frames_to_mj2.dsw
+END
+MJ2_Wrapper.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/518/branches/v2/mj2/MJ2_Wrapper.dsw
+END
+MJ2_Extractor.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/518/branches/v2/mj2/MJ2_Extractor.vcproj
+END
+mj2_to_metadata.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/518/branches/v2/mj2/mj2_to_metadata.dsw
+END
+frames_to_mj2.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/518/branches/v2/mj2/frames_to_mj2.vcproj
+END
+wrap_j2k_in_mj2.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/560/branches/v2/mj2/wrap_j2k_in_mj2.c
+END
+mj2_to_metadata.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/518/branches/v2/mj2/mj2_to_metadata.dtd
+END
+mj2_to_frames.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/560/branches/v2/mj2/mj2_to_frames.c
+END
+mj2_convert.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/560/branches/v2/mj2/mj2_convert.c
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/518/branches/v2/mj2/readme.txt
+END
+mj2_to_frames.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/518/branches/v2/mj2/mj2_to_frames.dsp
+END
+MJ2_Extractor.sln
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/518/branches/v2/mj2/MJ2_Extractor.sln
+END
+mj2_convert.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/518/branches/v2/mj2/mj2_convert.h
+END

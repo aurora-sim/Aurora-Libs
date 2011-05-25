@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/561/trunk/jp3d
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/289/trunk/jp3d/LICENSE.txt
+END
+DllJp3dVM.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/289/trunk/jp3d/DllJp3dVM.vcproj
+END
+DllJp3dVM.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/289/trunk/jp3d/DllJp3dVM.dsp
+END
+LibJp3dVM.sln
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/289/trunk/jp3d/LibJp3dVM.sln
+END
+DllJp3dVM.sln
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/289/trunk/jp3d/DllJp3dVM.sln
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/289/trunk/jp3d/README.txt
+END
+LibJp3dVM.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/289/trunk/jp3d/LibJp3dVM.vcproj
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/437/trunk/jp3d/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/545/trunk/jp3d/Makefile
+END

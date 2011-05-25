@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/518/branches/v2/JavaOpenJPEG
+END
+JavaOpenJPEGDecoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/518/branches/v2/JavaOpenJPEG/JavaOpenJPEGDecoder.c
+END
+org_openJpeg_OpenJPEGJavaDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/518/branches/v2/JavaOpenJPEG/org_openJpeg_OpenJPEGJavaDecoder.h
+END
+JavaOpenJPEG.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/518/branches/v2/JavaOpenJPEG/JavaOpenJPEG.dsw
+END
+JavaOpenJPEG.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/518/branches/v2/JavaOpenJPEG/JavaOpenJPEG.c
+END
+JavaOpenJPEG.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/518/branches/v2/JavaOpenJPEG/JavaOpenJPEG.vcproj
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/518/branches/v2/JavaOpenJPEG/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/518/branches/v2/JavaOpenJPEG/Makefile
+END
+org_openJpeg_OpenJPEGJavaEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/518/branches/v2/JavaOpenJPEG/org_openJpeg_OpenJPEGJavaEncoder.h
+END
+JavaOpenJPEG.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/518/branches/v2/JavaOpenJPEG/JavaOpenJPEG.dsp
+END

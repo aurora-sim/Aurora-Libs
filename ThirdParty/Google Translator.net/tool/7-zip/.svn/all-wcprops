@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/135/trunk/tool/7-zip
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/135/trunk/tool/7-zip/license.txt
+END
+7za.exe
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/135/trunk/tool/7-zip/7za.exe
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/135/trunk/tool/7-zip/readme.txt
+END
+7-zip.chm
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/135/trunk/tool/7-zip/7-zip.chm
+END

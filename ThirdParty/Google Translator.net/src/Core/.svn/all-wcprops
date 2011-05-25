@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/135/trunk/src/Core
+END
+GoogleClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/135/trunk/src/Core/GoogleClient.cs
+END
+GoogleServiceException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/135/trunk/src/Core/GoogleServiceException.cs
+END
+RequestUtility.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/135/trunk/src/Core/RequestUtility.cs
+END
+ResponseStatusConstant.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/135/trunk/src/Core/ResponseStatusConstant.cs
+END
+IRequestInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/135/trunk/src/Core/IRequestInfo.cs
+END
+Core.Silverlight.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/135/trunk/src/Core/Core.Silverlight.csproj
+END
+DeserializeException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/135/trunk/src/Core/DeserializeException.cs
+END
+Core.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/135/trunk/src/Core/Core.csproj
+END
+RequestBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/135/trunk/src/Core/RequestBase.cs
+END
+GoogleRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/135/trunk/src/Core/GoogleRequest.cs
+END
+GoogleAPIException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/135/trunk/src/Core/GoogleAPIException.cs
+END
+Enumeration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/135/trunk/src/Core/Enumeration.cs
+END
+ArgumentInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/135/trunk/src/Core/ArgumentInfo.cs
+END
+Enumeration.Generic.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/135/trunk/src/Core/Enumeration.Generic.cs
+END
+HttpUtility.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/135/trunk/src/Core/HttpUtility.cs
+END
+ResultObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/135/trunk/src/Core/ResultObject.cs
+END
+ArgumentAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/135/trunk/src/Core/ArgumentAttribute.cs
+END
+Core.Compact.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/135/trunk/src/Core/Core.Compact.csproj
+END
+HtmlEntities.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/135/trunk/src/Core/HtmlEntities.cs
+END
+ArgumentInfoProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/135/trunk/src/Core/ArgumentInfoProvider.cs
+END
+Core.Net20.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/135/trunk/src/Core/Core.Net20.csproj
+END

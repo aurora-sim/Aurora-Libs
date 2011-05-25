@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/obj/Release
+END
+HttpServer_OpenSim.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/obj/Release/HttpServer_OpenSim.pdb
+END
+HttpServer_OpenSim.dll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/obj/Release/HttpServer_OpenSim.dll
+END
+HttpServer.csproj.FileListAbsolute.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/obj/Release/HttpServer.csproj.FileListAbsolute.txt
+END

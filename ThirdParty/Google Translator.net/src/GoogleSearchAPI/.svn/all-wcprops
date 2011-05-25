@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI
+END
+NewsTopic.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/NewsTopic.cs
+END
+GSearchClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GSearchClient.cs
+END
+GvideoSearchRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GvideoSearchRequest.cs
+END
+Colorization.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/Colorization.cs
+END
+GoogleSearchAPI.Compact.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GoogleSearchAPI.Compact.csproj
+END
+ImageSize.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/ImageSize.cs
+END
+IVideoResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/IVideoResult.cs
+END
+GimageSearchClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GimageSearchClient.cs
+END
+GblogSearchClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GblogSearchClient.cs
+END
+GnewsResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GnewsResult.cs
+END
+GoogleSearchAPI.Silverlight.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GoogleSearchAPI.Silverlight.csproj
+END
+Language.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/Language.cs
+END
+GwebSearchRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GwebSearchRequest.cs
+END
+GwebResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GwebResult.cs
+END
+ImageType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/ImageType.cs
+END
+ImageFileType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/ImageFileType.cs
+END
+GnewsImage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GnewsImage.cs
+END
+GlocalSearchClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GlocalSearchClient.cs
+END
+GpatentSearchClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GpatentSearchClient.cs
+END
+GimageResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GimageResult.cs
+END
+NewsEdition.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/NewsEdition.cs
+END
+GblogResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GblogResult.cs
+END
+SearchUtility.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/SearchUtility.cs
+END
+SortType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/SortType.cs
+END
+GblogSearchRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GblogSearchRequest.cs
+END
+LocalResultType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/LocalResultType.cs
+END
+SearchData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/SearchData.cs
+END
+GbookSearchRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GbookSearchRequest.cs
+END
+GlocalResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GlocalResult.cs
+END
+GpatentResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GpatentResult.cs
+END
+GpatentSearchRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GpatentSearchRequest.cs
+END
+GvideoSearchClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GvideoSearchClient.cs
+END
+IBookResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/IBookResult.cs
+END
+INewsResultItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/INewsResultItem.cs
+END
+TbImage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/TbImage.cs
+END
+LocalSearchData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/LocalSearchData.cs
+END
+GoogleSearchRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GoogleSearchRequest.cs
+END
+GvideoResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GvideoResult.cs
+END
+GoogleSearchAPI.Net20.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GoogleSearchAPI.Net20.csproj
+END
+DuplicateFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/DuplicateFilter.cs
+END
+ITbImage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/ITbImage.cs
+END
+ImageColor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/ImageColor.cs
+END
+PhoneNumber.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/PhoneNumber.cs
+END
+GnewsSearchRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GnewsSearchRequest.cs
+END
+INewsResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/INewsResult.cs
+END
+IWebResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/IWebResult.cs
+END
+GbookSearchClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GbookSearchClient.cs
+END
+GoogleSearchAPI.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GoogleSearchAPI.csproj
+END
+INewsImage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/INewsImage.cs
+END
+GimageSearchRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GimageSearchRequest.cs
+END
+IImageResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/IImageResult.cs
+END
+IBlogResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/IBlogResult.cs
+END
+IPhoneNumber.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/IPhoneNumber.cs
+END
+GbookResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GbookResult.cs
+END
+GlocalSearchRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GlocalSearchRequest.cs
+END
+GnewsResultItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GnewsResultItem.cs
+END
+ILocalResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/ILocalResult.cs
+END
+IPatentResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/IPatentResult.cs
+END
+SafeLevel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/SafeLevel.cs
+END
+GnewsSearchClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GnewsSearchClient.cs
+END
+GwebSearchClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/GwebSearchClient.cs
+END
+ResultSize.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/135/trunk/src/GoogleSearchAPI/ResultSize.cs
+END

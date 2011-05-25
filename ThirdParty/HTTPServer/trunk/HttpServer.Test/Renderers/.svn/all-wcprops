@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Renderers
+END
+AttributeNodeTester.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Renderers/AttributeNodeTester.cs
+END
+HamlTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Renderers/HamlTest.cs
+END
+TagNodeTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Renderers/TagNodeTest.cs
+END
+TemplateArgumentsTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Renderers/TemplateArgumentsTest.cs
+END
+PartialNodeTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Renderers/PartialNodeTest.cs
+END
+ResourceManagerTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Renderers/ResourceManagerTest.cs
+END
+TinyTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Renderers/TinyTest.cs
+END
+TemplateManagerTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Renderers/TemplateManagerTest.cs
+END
+ResourceTemplateLoaderTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Renderers/ResourceTemplateLoaderTest.cs
+END

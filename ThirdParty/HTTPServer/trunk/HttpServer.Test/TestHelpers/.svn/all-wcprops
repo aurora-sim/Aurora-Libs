@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/TestHelpers
+END
+HttpResponseContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/TestHelpers/HttpResponseContext.cs
+END
+HttpTestRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/TestHelpers/HttpTestRequest.cs
+END

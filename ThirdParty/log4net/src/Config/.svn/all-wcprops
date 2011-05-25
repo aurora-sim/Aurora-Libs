@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/asf/!svn/ver/688527/logging/log4net/trunk/src/Config
+END
+DomainAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Config/DomainAttribute.cs
+END
+SecurityContextProviderAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/607475/logging/log4net/trunk/src/Config/SecurityContextProviderAttribute.cs
+END
+AliasRepositoryAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Config/AliasRepositoryAttribute.cs
+END
+DOMConfigurator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Config/DOMConfigurator.cs
+END
+PluginAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Config/PluginAttribute.cs
+END
+RepositoryAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Config/RepositoryAttribute.cs
+END
+XmlConfigurator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/688527/logging/log4net/trunk/src/Config/XmlConfigurator.cs
+END
+BasicConfigurator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/653963/logging/log4net/trunk/src/Config/BasicConfigurator.cs
+END
+AliasDomainAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Config/AliasDomainAttribute.cs
+END
+ConfiguratorAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Config/ConfiguratorAttribute.cs
+END
+DOMConfiguratorAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Config/DOMConfiguratorAttribute.cs
+END
+Log4NetConfigurationSectionHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Config/Log4NetConfigurationSectionHandler.cs
+END
+XmlConfiguratorAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/607475/logging/log4net/trunk/src/Config/XmlConfiguratorAttribute.cs
+END

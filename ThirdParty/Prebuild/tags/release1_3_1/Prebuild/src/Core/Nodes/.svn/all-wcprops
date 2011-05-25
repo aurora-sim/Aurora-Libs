@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Nodes
+END
+ProjectNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Nodes/ProjectNode.cs
+END
+ConfigurationNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Nodes/ConfigurationNode.cs
+END
+DataNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Nodes/DataNode.cs
+END
+ExcludeNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Nodes/ExcludeNode.cs
+END
+OptionsNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Nodes/OptionsNode.cs
+END
+ReferencePathNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Nodes/ReferencePathNode.cs
+END
+MatchNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Nodes/MatchNode.cs
+END
+SolutionNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Nodes/SolutionNode.cs
+END
+ProcessNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Nodes/ProcessNode.cs
+END
+ReferenceNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Nodes/ReferenceNode.cs
+END
+FileNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Nodes/FileNode.cs
+END
+FilesNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Nodes/FilesNode.cs
+END

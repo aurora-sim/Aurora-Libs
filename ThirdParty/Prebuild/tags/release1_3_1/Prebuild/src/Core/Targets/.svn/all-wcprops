@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Targets
+END
+DebugTarget.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Targets/DebugTarget.cs
+END
+MonoDevelopTarget.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Targets/MonoDevelopTarget.cs
+END
+SharpDevelopTarget.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Targets/SharpDevelopTarget.cs
+END
+VS2002Target.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Targets/VS2002Target.cs
+END
+VS2003Target.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Targets/VS2003Target.cs
+END
+SharpDevelop2Target.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Targets/SharpDevelop2Target.cs
+END
+VS2005Target.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Targets/VS2005Target.cs
+END
+NAntTarget.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Targets/NAntTarget.cs
+END

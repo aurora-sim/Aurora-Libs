@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Rendering/Haml
+END
+NodeList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Rendering/Haml/NodeList.cs
+END
+LineInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Rendering/Haml/LineInfo.cs
+END
+resourcetest2.haml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Rendering/Haml/resourcetest2.haml
+END
+HamlGenerator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Rendering/Haml/HamlGenerator.cs
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/561/trunk/jp3d/codec
+END
+jp3d_vm_dec.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/289/trunk/jp3d/codec/jp3d_vm_dec.vcproj
+END
+jp3d_vm_enc.sln
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/289/trunk/jp3d/codec/jp3d_vm_enc.sln
+END
+jp3d_vm_dec.suo
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/289/trunk/jp3d/codec/jp3d_vm_dec.suo
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/289/trunk/jp3d/codec/getopt.c
+END
+jp3d_vm_enc.ncb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/289/trunk/jp3d/codec/jp3d_vm_enc.ncb
+END
+getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/289/trunk/jp3d/codec/getopt.h
+END
+jp3d_vm_enc.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/289/trunk/jp3d/codec/jp3d_vm_enc.vcproj
+END
+jp3d_vm_enc.suo
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/289/trunk/jp3d/codec/jp3d_vm_enc.suo
+END
+convert.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/289/trunk/jp3d/codec/convert.c
+END
+convert.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/289/trunk/jp3d/codec/convert.h
+END
+jp3d_vm_dec.sln
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/289/trunk/jp3d/codec/jp3d_vm_dec.sln
+END
+volume_to_jp3d.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/558/trunk/jp3d/codec/volume_to_jp3d.c
+END
+jp3d_to_volume.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/561/trunk/jp3d/codec/jp3d_to_volume.c
+END
+dirent.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/436/trunk/jp3d/codec/dirent.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/437/trunk/jp3d/codec/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/545/trunk/jp3d/codec/Makefile
+END
+jp3d_vm_dec.ncb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/289/trunk/jp3d/codec/jp3d_vm_dec.ncb
+END

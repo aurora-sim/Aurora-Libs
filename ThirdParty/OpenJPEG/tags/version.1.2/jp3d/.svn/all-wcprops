@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/394/tags/version.1.2/jp3d
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/394/tags/version.1.2/jp3d/LICENSE.txt
+END
+DllJp3dVM.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/394/tags/version.1.2/jp3d/DllJp3dVM.vcproj
+END
+DllJp3dVM.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/394/tags/version.1.2/jp3d/DllJp3dVM.dsp
+END
+LibJp3dVM.sln
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/394/tags/version.1.2/jp3d/LibJp3dVM.sln
+END
+DllJp3dVM.sln
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/394/tags/version.1.2/jp3d/DllJp3dVM.sln
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/394/tags/version.1.2/jp3d/README.txt
+END
+LibJp3dVM.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/394/tags/version.1.2/jp3d/LibJp3dVM.vcproj
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/394/tags/version.1.2/jp3d/Makefile
+END

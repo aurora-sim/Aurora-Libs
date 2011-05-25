@@ -1,0 +1,3 @@
+E:\Aurora\Aurora-Sim\bin\SmartThreadPool.dll
+E:\Aurora\Aurora-Sim\ThirdParty\SmartThreadPool\obj\Release\ResolveAssemblyReference.cache
+E:\Aurora\Aurora-Sim\ThirdParty\SmartThreadPool\obj\Release\SmartThreadPool.dll

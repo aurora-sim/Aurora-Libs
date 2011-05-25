@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Exceptions
+END
+ForbiddenException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Exceptions/ForbiddenException.cs
+END
+NotFoundException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Exceptions/NotFoundException.cs
+END
+BadRequestException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Exceptions/BadRequestException.cs
+END
+HttpException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Exceptions/HttpException.cs
+END
+UnauthorizedException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Exceptions/UnauthorizedException.cs
+END
+InternalServerException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer/Exceptions/InternalServerException.cs
+END

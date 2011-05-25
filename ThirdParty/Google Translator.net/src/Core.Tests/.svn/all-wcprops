@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/135/trunk/src/Core.Tests
+END
+Core.Tests.Net20.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/135/trunk/src/Core.Tests/Core.Tests.Net20.csproj
+END
+TestMockEnum.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/135/trunk/src/Core.Tests/TestMockEnum.cs
+END
+MockEnum.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/135/trunk/src/Core.Tests/MockEnum.cs
+END
+Core.Tests.Silverlight.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/135/trunk/src/Core.Tests/Core.Tests.Silverlight.csproj
+END
+MockRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/135/trunk/src/Core.Tests/MockRequest.cs
+END
+TestHttpUtility.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/135/trunk/src/Core.Tests/TestHttpUtility.cs
+END
+TestRequestBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/135/trunk/src/Core.Tests/TestRequestBase.cs
+END
+Core.Tests.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/135/trunk/src/Core.Tests/Core.Tests.csproj
+END
+TestEnumeration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/135/trunk/src/Core.Tests/TestEnumeration.cs
+END
+Core.Tests.Compact.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/135/trunk/src/Core.Tests/Core.Tests.Compact.csproj
+END

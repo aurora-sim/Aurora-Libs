@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/135/trunk/src/GoogleTranslateAPI
+END
+TranslateClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/135/trunk/src/GoogleTranslateAPI/TranslateClient.cs
+END
+GoogleTranslateAPI.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/135/trunk/src/GoogleTranslateAPI/GoogleTranslateAPI.csproj
+END
+DetectRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/135/trunk/src/GoogleTranslateAPI/DetectRequest.cs
+END
+DetectData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/135/trunk/src/GoogleTranslateAPI/DetectData.cs
+END
+Language.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/135/trunk/src/GoogleTranslateAPI/Language.cs
+END
+GoogleTranslateAPI.Compact.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/135/trunk/src/GoogleTranslateAPI/GoogleTranslateAPI.Compact.csproj
+END
+TranslateRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/135/trunk/src/GoogleTranslateAPI/TranslateRequest.cs
+END
+TranslateFormat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/135/trunk/src/GoogleTranslateAPI/TranslateFormat.cs
+END
+GoogleTranslateAPI.Net20.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/135/trunk/src/GoogleTranslateAPI/GoogleTranslateAPI.Net20.csproj
+END
+TranslateData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/135/trunk/src/GoogleTranslateAPI/TranslateData.cs
+END
+GoogleTranslateAPI.Silverlight.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/135/trunk/src/GoogleTranslateAPI/GoogleTranslateAPI.Silverlight.csproj
+END

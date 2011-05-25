@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/533/trunk/JavaOpenJPEG
+END
+JavaOpenJPEGDecoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/533/trunk/JavaOpenJPEG/JavaOpenJPEGDecoder.c
+END
+org_openJpeg_OpenJPEGJavaDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/484/trunk/JavaOpenJPEG/org_openJpeg_OpenJPEGJavaDecoder.h
+END
+JavaOpenJPEG.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/484/trunk/JavaOpenJPEG/JavaOpenJPEG.dsw
+END
+JavaOpenJPEG.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/484/trunk/JavaOpenJPEG/JavaOpenJPEG.c
+END
+JavaOpenJPEG.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/492/trunk/JavaOpenJPEG/JavaOpenJPEG.vcproj
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/484/trunk/JavaOpenJPEG/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/484/trunk/JavaOpenJPEG/Makefile
+END
+org_openJpeg_OpenJPEGJavaEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/484/trunk/JavaOpenJPEG/org_openJpeg_OpenJPEGJavaEncoder.h
+END
+JavaOpenJPEG.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/484/trunk/JavaOpenJPEG/JavaOpenJPEG.dsp
+END

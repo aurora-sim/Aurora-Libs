@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/609/trunk/CMake
+END
+OpenJPEGConfig.cmake.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/609/trunk/CMake/OpenJPEGConfig.cmake.in
+END
+CTestCustom.cmake.in
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/602/trunk/CMake/CTestCustom.cmake.in
+END

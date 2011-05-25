@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Helpers/ResourceFiles
+END
+test-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Helpers/ResourceFiles/test-test.xml
+END
+test.test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Helpers/ResourceFiles/test.test.txt
+END
+test.test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Helpers/ResourceFiles/test.test.xml
+END

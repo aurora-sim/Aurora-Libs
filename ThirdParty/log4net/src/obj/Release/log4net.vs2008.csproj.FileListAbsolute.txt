@@ -1,0 +1,1 @@
+E:\Aurora\Aurora-Sim\ThirdParty\log4net\src\obj\Release\ResolveAssemblyReference.cache

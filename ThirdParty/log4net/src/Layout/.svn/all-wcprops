@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/asf/!svn/ver/890026/logging/log4net/trunk/src/Layout
+END
+PatternLayout.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/881069/logging/log4net/trunk/src/Layout/PatternLayout.cs
+END
+RawTimeStampLayout.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Layout/RawTimeStampLayout.cs
+END
+ExceptionLayout.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Layout/ExceptionLayout.cs
+END
+RawPropertyLayout.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Layout/RawPropertyLayout.cs
+END
+XMLLayout.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/506790/logging/log4net/trunk/src/Layout/XMLLayout.cs
+END
+RawLayoutConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Layout/RawLayoutConverter.cs
+END
+XmlLayoutSchemaLog4j.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Layout/XmlLayoutSchemaLog4j.cs
+END
+IRawLayout.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Layout/IRawLayout.cs
+END
+LayoutSkeleton.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/608299/logging/log4net/trunk/src/Layout/LayoutSkeleton.cs
+END
+ILayout.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Layout/ILayout.cs
+END
+RawUtcTimeStampLayout.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Layout/RawUtcTimeStampLayout.cs
+END
+SimpleLayout.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Layout/SimpleLayout.cs
+END
+Layout2RawLayoutAdapter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Layout/Layout2RawLayoutAdapter.cs
+END
+XMLLayoutBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Layout/XMLLayoutBase.cs
+END

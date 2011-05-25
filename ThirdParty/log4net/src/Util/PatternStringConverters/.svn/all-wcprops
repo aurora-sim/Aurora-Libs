@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/608300/logging/log4net/trunk/src/Util/PatternStringConverters
+END
+RandomStringPatternConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/607475/logging/log4net/trunk/src/Util/PatternStringConverters/RandomStringPatternConverter.cs
+END
+AppDomainPatternConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Util/PatternStringConverters/AppDomainPatternConverter.cs
+END
+IdentityPatternConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/607475/logging/log4net/trunk/src/Util/PatternStringConverters/IdentityPatternConverter.cs
+END
+UtcDatePatternConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/607475/logging/log4net/trunk/src/Util/PatternStringConverters/UtcDatePatternConverter.cs
+END
+ProcessIdPatternConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/607475/logging/log4net/trunk/src/Util/PatternStringConverters/ProcessIdPatternConverter.cs
+END
+LiteralPatternConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Util/PatternStringConverters/LiteralPatternConverter.cs
+END
+DatePatternConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/607475/logging/log4net/trunk/src/Util/PatternStringConverters/DatePatternConverter.cs
+END
+EnvironmentFolderPathPatternConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/607475/logging/log4net/trunk/src/Util/PatternStringConverters/EnvironmentFolderPathPatternConverter.cs
+END
+UserNamePatternConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/607475/logging/log4net/trunk/src/Util/PatternStringConverters/UserNamePatternConverter.cs
+END
+NewLinePatternConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Util/PatternStringConverters/NewLinePatternConverter.cs
+END
+EnvironmentPatternConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/608300/logging/log4net/trunk/src/Util/PatternStringConverters/EnvironmentPatternConverter.cs
+END
+PropertyPatternConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/506603/logging/log4net/trunk/src/Util/PatternStringConverters/PropertyPatternConverter.cs
+END

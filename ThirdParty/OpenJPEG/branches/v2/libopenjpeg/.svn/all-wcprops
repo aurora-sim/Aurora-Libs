@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/615/branches/v2/libopenjpeg
+END
+tgt.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/519/branches/v2/libopenjpeg/tgt.c
+END
+raw.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/519/branches/v2/libopenjpeg/raw.h
+END
+dwt.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/553/branches/v2/libopenjpeg/dwt.c
+END
+t1_luts.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/518/branches/v2/libopenjpeg/t1_luts.h
+END
+profile.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/519/branches/v2/libopenjpeg/profile.c
+END
+tgt.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/519/branches/v2/libopenjpeg/tgt.h
+END
+dwt.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/519/branches/v2/libopenjpeg/dwt.h
+END
+profile.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/519/branches/v2/libopenjpeg/profile.h
+END
+openjpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/553/branches/v2/libopenjpeg/openjpeg.c
+END
+invert.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/519/branches/v2/libopenjpeg/invert.c
+END
+openjpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/613/branches/v2/libopenjpeg/openjpeg.h
+END
+invert.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/519/branches/v2/libopenjpeg/invert.h
+END
+function_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/553/branches/v2/libopenjpeg/function_list.c
+END
+image.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/519/branches/v2/libopenjpeg/image.c
+END
+opj_malloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/519/branches/v2/libopenjpeg/opj_malloc.h
+END
+function_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/519/branches/v2/libopenjpeg/function_list.h
+END
+j2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/605/branches/v2/libopenjpeg/j2k.c
+END
+image.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/519/branches/v2/libopenjpeg/image.h
+END
+j2k.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/595/branches/v2/libopenjpeg/j2k.h
+END
+jp2.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/553/branches/v2/libopenjpeg/jp2.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/590/branches/v2/libopenjpeg/CMakeLists.txt
+END
+jpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/519/branches/v2/libopenjpeg/jpt.c
+END
+opj_configure.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/519/branches/v2/libopenjpeg/opj_configure.h
+END
+int.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/519/branches/v2/libopenjpeg/int.h
+END
+jp2.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/519/branches/v2/libopenjpeg/jp2.h
+END
+jpt.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/519/branches/v2/libopenjpeg/jpt.h
+END
+pi.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/562/branches/v2/libopenjpeg/pi.c
+END
+bio.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/519/branches/v2/libopenjpeg/bio.c
+END
+tcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/537/branches/v2/libopenjpeg/tcd.c
+END
+cio.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/612/branches/v2/libopenjpeg/cio.c
+END
+j2k_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/519/branches/v2/libopenjpeg/j2k_lib.c
+END
+pi.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/519/branches/v2/libopenjpeg/pi.h
+END
+bio.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/519/branches/v2/libopenjpeg/bio.h
+END
+cio.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/519/branches/v2/libopenjpeg/cio.h
+END
+tcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/519/branches/v2/libopenjpeg/tcd.h
+END
+mqc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/519/branches/v2/libopenjpeg/mqc.c
+END
+j2k_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/519/branches/v2/libopenjpeg/j2k_lib.h
+END
+event.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/519/branches/v2/libopenjpeg/event.c
+END
+mct.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/519/branches/v2/libopenjpeg/mct.c
+END
+opj_includes.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/615/branches/v2/libopenjpeg/opj_includes.h
+END
+t1.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/519/branches/v2/libopenjpeg/t1.c
+END
+mqc.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/519/branches/v2/libopenjpeg/mqc.h
+END
+t2.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/519/branches/v2/libopenjpeg/t2.c
+END
+event.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/519/branches/v2/libopenjpeg/event.h
+END
+mct.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/519/branches/v2/libopenjpeg/mct.h
+END
+t1.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/519/branches/v2/libopenjpeg/t1.h
+END
+raw.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/519/branches/v2/libopenjpeg/raw.c
+END
+t2.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/519/branches/v2/libopenjpeg/t2.h
+END
+fix.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/519/branches/v2/libopenjpeg/fix.h
+END

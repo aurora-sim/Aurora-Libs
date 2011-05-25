@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/553/branches/v2/codec/compat
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/553/branches/v2/codec/compat/getopt.c
+END
+getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/553/branches/v2/codec/compat/getopt.h
+END

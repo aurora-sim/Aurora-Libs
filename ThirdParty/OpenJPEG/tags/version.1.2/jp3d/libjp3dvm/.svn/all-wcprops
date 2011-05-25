@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm
+END
+dwt.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/dwt.c
+END
+raw.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/raw.h
+END
+tgt.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/tgt.c
+END
+dwt.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/dwt.h
+END
+tgt.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/tgt.h
+END
+openjpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/openjpeg.c
+END
+volume.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/volume.c
+END
+volume.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/volume.h
+END
+openjpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/openjpeg.h
+END
+dirent.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/dirent.h
+END
+int.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/int.h
+END
+jp3d.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/jp3d.c
+END
+jp3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/jp3d.h
+END
+pi.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/pi.c
+END
+bio.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/bio.c
+END
+t1_3d.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/t1_3d.c
+END
+tcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/tcd.c
+END
+cio.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/cio.c
+END
+pi.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/pi.h
+END
+bio.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/bio.h
+END
+cio.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/cio.h
+END
+t1_3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/t1_3d.h
+END
+tcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/tcd.h
+END
+mqc.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/mqc.c
+END
+event.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/event.c
+END
+opj_includes.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/opj_includes.h
+END
+mct.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/mct.c
+END
+t1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/t1.c
+END
+t2.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/t2.c
+END
+mqc.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/mqc.h
+END
+event.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/event.h
+END
+jp3d_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/jp3d_lib.c
+END
+mct.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/mct.h
+END
+t1.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/t1.h
+END
+raw.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/raw.c
+END
+t2.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/t2.h
+END
+jp3d_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/jp3d_lib.h
+END
+fix.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/394/tags/version.1.2/jp3d/libjp3dvm/fix.h
+END

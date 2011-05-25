@@ -1,0 +1,18 @@
+#summary OpenJPEG is nightly tested
+#labels cdashctestcmake
+
+= Introduction =
+
+Thanks to the use of CMake, OpenJPEG can be nightly tested. Simply configure, build and test OpenJPEG:
+
+cmake . && make && make test
+
+if you would like to submit the test to the dashboard:
+
+make Experimental
+
+
+= Details =
+
+Link is here:
+* http://my.cdash.org/index.php?project=OPENJPEG

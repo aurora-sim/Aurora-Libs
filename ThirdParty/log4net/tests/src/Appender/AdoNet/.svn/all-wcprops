@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/607773/logging/log4net/trunk/tests/src/Appender/AdoNet
+END
+Log4NetCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/607749/logging/log4net/trunk/tests/src/Appender/AdoNet/Log4NetCommand.cs
+END
+Log4NetConnection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/607749/logging/log4net/trunk/tests/src/Appender/AdoNet/Log4NetConnection.cs
+END
+Log4NetParameter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/607749/logging/log4net/trunk/tests/src/Appender/AdoNet/Log4NetParameter.cs
+END
+Log4NetTransaction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/607749/logging/log4net/trunk/tests/src/Appender/AdoNet/Log4NetTransaction.cs
+END
+Log4NetParameterCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/607773/logging/log4net/trunk/tests/src/Appender/AdoNet/Log4NetParameterCollection.cs
+END

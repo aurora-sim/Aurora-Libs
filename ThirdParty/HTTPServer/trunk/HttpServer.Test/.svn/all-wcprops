@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test
+END
+HttpInputItemTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/HttpInputItemTest.cs
+END
+HttpHelperTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/HttpHelperTest.cs
+END
+HttpFileTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/HttpFileTest.cs
+END
+HttpServer.Test.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/HttpServer.Test.csproj
+END
+HttpClientContextTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/HttpClientContextTest.cs
+END
+HttpContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/HttpContext.cs
+END
+RegexRedirectRuleTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/RegexRedirectRuleTest.cs
+END
+HttpListenerTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/HttpListenerTest.cs
+END
+HttpRequestTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/HttpRequestTest.cs
+END
+HttpServerLoadTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/HttpServerLoadTests.cs
+END
+HttpInputTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/HttpInputTest.cs
+END
+HttpFormTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/HttpFormTest.cs
+END
+HttpRequestParserTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/HttpRequestParserTest.cs
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/Program.cs
+END
+HttpCookieTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/opensim-libs/!svn/ver/104/HttpServer/trunk/HttpServer.Test/HttpCookieTest.cs
+END

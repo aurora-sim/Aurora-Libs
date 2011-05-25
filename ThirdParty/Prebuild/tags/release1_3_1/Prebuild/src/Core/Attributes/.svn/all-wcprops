@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Attributes
+END
+OptionNodeAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Attributes/OptionNodeAttribute.cs
+END
+DataNodeAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Attributes/DataNodeAttribute.cs
+END
+TargetAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/dnpb/!svn/ver/130/tags/release1_3_1/Prebuild/src/Core/Attributes/TargetAttribute.cs
+END

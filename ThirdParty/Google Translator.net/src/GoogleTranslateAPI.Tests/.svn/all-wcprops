@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/135/trunk/src/GoogleTranslateAPI.Tests
+END
+GoogleTranslateAPI.Tests.Silverlight.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/135/trunk/src/GoogleTranslateAPI.Tests/GoogleTranslateAPI.Tests.Silverlight.csproj
+END
+TestTranslateClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/135/trunk/src/GoogleTranslateAPI.Tests/TestTranslateClient.cs
+END
+GoogleTranslateAPI.Tests.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/135/trunk/src/GoogleTranslateAPI.Tests/GoogleTranslateAPI.Tests.csproj
+END
+TestLanguage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/135/trunk/src/GoogleTranslateAPI.Tests/TestLanguage.cs
+END
+GoogleTranslateAPI.Tests.Compact.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/135/trunk/src/GoogleTranslateAPI.Tests/GoogleTranslateAPI.Tests.Compact.csproj
+END
+TestTranslateFormat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/135/trunk/src/GoogleTranslateAPI.Tests/TestTranslateFormat.cs
+END
+GoogleTranslateAPI.Tests.Net20.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/135/trunk/src/GoogleTranslateAPI.Tests/GoogleTranslateAPI.Tests.Net20.csproj
+END

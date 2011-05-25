@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/394/tags/version.1.2/libs/libtiff
+END
+libtiff.lib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/394/tags/version.1.2/libs/libtiff/libtiff.lib
+END
+Tiffconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/394/tags/version.1.2/libs/libtiff/Tiffconf.h
+END
+tiffio.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/394/tags/version.1.2/libs/libtiff/tiffio.h
+END
+Tiffiop.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/394/tags/version.1.2/libs/libtiff/Tiffiop.h
+END
+Version.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/394/tags/version.1.2/libs/libtiff/Version.h
+END
+Tiffcomp.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/394/tags/version.1.2/libs/libtiff/Tiffcomp.h
+END
+tiff.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/394/tags/version.1.2/libs/libtiff/tiff.h
+END

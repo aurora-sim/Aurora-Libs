@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/dnpb/!svn/ver/210/branches/Prebuild-cjac/src/Core/Attributes
+END
+OptionNodeAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/dnpb/!svn/ver/210/branches/Prebuild-cjac/src/Core/Attributes/OptionNodeAttribute.cs
+END
+DataNodeAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/dnpb/!svn/ver/210/branches/Prebuild-cjac/src/Core/Attributes/DataNodeAttribute.cs
+END
+TargetAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/dnpb/!svn/ver/210/branches/Prebuild-cjac/src/Core/Attributes/TargetAttribute.cs
+END
