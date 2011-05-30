@@ -156,7 +156,6 @@ namespace HttpServer
             if (Stream != null)
             {
                 Stream.Close();
-                Stream.Dispose();
                 Stream = null;
             }
 
@@ -235,12 +234,18 @@ namespace HttpServer
                     if (Stream is ReusableSocketNetworkStream)
                         ((NetworkStream)Stream).Flush();
                 }
-                //Stream.Close();
-                Disconnected(this, new DisconnectedEventArgs(error));
             }
             catch (Exception err)
             {
-                LogWriter.Write(this, LogPrio.Error, "Disconnect threw an exception: " + err);
+                LogWriter.Write(this, LogPrio.Error,     "Disconnect (Close) threw an exception: " + err);
+            }
+            try
+            {
+                Disconnected (this, new DisconnectedEventArgs (error));
+            }
+            catch (Exception err)
+            {
+                LogWriter.Write (this, LogPrio.Error, "Disconnect threw an exception: " + err);
             }
         }
 
@@ -501,8 +506,8 @@ namespace HttpServer
                         if (Stream.CanWrite)
                             Stream.Flush();
 
-                        Cleanup();
-
+                        Cleanup ();
+                        Available = false;
                     }
                     catch (IOException)
                     {

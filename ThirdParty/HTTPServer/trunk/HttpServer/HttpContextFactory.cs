@@ -58,7 +58,6 @@ namespace HttpServer
                         context.Disconnected += OnFreeContext;
                         context.RequestReceived += OnRequestReceived;
                         context.EndWhenDone = true;
-                        
                     }
                 }
                 else
@@ -97,16 +96,18 @@ namespace HttpServer
         private void OnFreeContext(object sender, DisconnectedEventArgs e)
         {
             var imp = (HttpClientContext) sender;
-            imp.Cleanup();
+            imp.Cleanup ();
 
             if (!imp.EndWhenDone)
             {
+                imp.Available = true;
                 lock (_contextQueue)
                     _contextQueue.Enqueue(imp);
             }
             else
             {
-                imp.Close();
+                imp.Close ();
+                imp.Available = false;
             }
         }
 
