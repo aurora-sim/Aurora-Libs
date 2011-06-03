@@ -85,7 +85,7 @@ namespace HttpServer
 		/// <returns>A new context (always).</returns>
     	protected virtual HttpClientContext CreateNewContext(bool isSecured, IPEndPoint endPoint, Stream stream, Socket sock)
     	{
-    		return new HttpClientContext(isSecured, endPoint, stream, _factory, _bufferSize, sock);
+    		return new HttpClientContext(isSecured, endPoint, stream, _factory, _bufferSize, sock, _logWriter);
     	}
 
     	private void OnRequestReceived(object sender, RequestEventArgs e)
@@ -290,25 +290,28 @@ namespace HttpServer
 		/// Releases the unmanaged resources used by the <see cref="T:System.Net.Sockets.NetworkStream"/> and optionally releases the managed resources.
 		/// </summary>
 		/// <param name="disposing">true to release both managed and unmanaged resources; false to release only unmanaged resources.</param>
-		protected override void Dispose(bool disposing)
-		{
+        protected override void Dispose (bool disposing)
+        {
             try
             {
                 if (!disposed)
                 {
                     disposed = true;
-                    if (Socket != null && Socket.Connected)
-                        Socket.Disconnect (true);
-
-
-
+                    try
+                    {
+                        if (Socket != null && Socket.Connected)
+                            Socket.Disconnect (true);
+                    }
+                    catch
+                    {
+                    }
                 }
                 base.Dispose (disposing);
             }
             catch
             {
             }
-		}
+        }
 	}
 
     /// <summary>

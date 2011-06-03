@@ -48,7 +48,7 @@ namespace HttpServer
         /// <exception cref="SocketException">If <see cref="Socket.BeginReceive(byte[],int,int,SocketFlags,AsyncCallback,object)"/> fails</exception>
         /// <exception cref="ArgumentException">Stream must be writable and readable.</exception>
         public HttpClientContext(bool secured, IPEndPoint remoteEndPoint,
-                                    Stream stream, IRequestParserFactory parserFactory, int bufferSize, Socket sock)
+                                    Stream stream, IRequestParserFactory parserFactory, int bufferSize, Socket sock, ILogWriter log)
         {
             Check.Require(remoteEndPoint, "remoteEndPoint");
             Check.NotEmpty(remoteEndPoint.Address.ToString(), "remoteEndPoint.Address");
@@ -63,7 +63,7 @@ namespace HttpServer
             _bufferSize = bufferSize;
 			RemoteAddress = remoteEndPoint.Address.ToString();
 			RemotePort = remoteEndPoint.Port.ToString();
-            _log = NullLogWriter.Instance;
+            _log = log;
             _parser = parserFactory.CreateParser(_log);
             _parser.RequestCompleted += OnRequestCompleted;
             _parser.RequestLineReceived += OnRequestLine;
@@ -72,6 +72,8 @@ namespace HttpServer
             _currentRequest = new HttpRequest();
 
             IsSecured = secured;
+            if (stream == null)
+                throw new NullReferenceException ("Null Stream in HttpClientContext");
             _stream = stream;
            
             _buffer = new byte[bufferSize];
@@ -156,7 +158,8 @@ namespace HttpServer
             if (Stream != null)
             {
                 Stream.Close();
-                Stream = null;
+                _stream = null;
+                //m_stackTraceFromNullingOfStream = Environment.StackTrace;
             }
 
             _currentRequest.Clear();
@@ -199,6 +202,7 @@ namespace HttpServer
         }
 
         private Stream _stream;
+        //private string m_stackTraceFromNullingOfStream = "";
 
         /// <summary>
         /// Gets or sets the network stream.
@@ -206,7 +210,12 @@ namespace HttpServer
         internal Stream Stream
         {
             get { return _stream; }
-            set { _stream = value; }
+            set 
+            {
+                if (value == null)
+                    throw new NullReferenceException ("Null Stream being set in the Stream property");
+                _stream = value; 
+            }
         }
 
         /// <summary>
@@ -259,6 +268,20 @@ namespace HttpServer
                     LogWriter.Write (this, LogPrio.Debug, "Failed to end receive : NullRef");
                     Disconnect (SocketError.NoRecovery);
                     return;
+                }
+                int retry = 0;
+                tryAgain:
+                if (Stream == null)
+                {
+                    System.Threading.Thread.Sleep (1);
+                    if (retry < 5)
+                    {
+                        retry++;
+                        goto tryAgain;
+                    }
+                    LogWriter.Write (this, LogPrio.Warning, "Failed to end receive : NullRef");
+                    Disconnect (SocketError.NoRecovery);
+                    return; // "Connection: Close" in effect.
                 }
                 int bytesRead = Stream.EndRead(ar);
                 if (bytesRead == 0)

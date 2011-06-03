@@ -64,10 +64,10 @@ namespace HttpServer
         /// <param name="address">Address that the listener should accept connections on.</param>
         /// <param name="port">Port that listener should accept connections on.</param>
 		/// <returns>Created HTTP listener.</returns>
-        public static HttpListener Create(IPAddress address, int port)
+        public static HttpListener Create (IPAddress address, int port, ILogWriter log)
         {
             RequestParserFactory requestFactory = new RequestParserFactory();
-            HttpContextFactory factory = new HttpContextFactory(NullLogWriter.Instance, 16384, requestFactory);
+            HttpContextFactory factory = new HttpContextFactory (log, 16384, requestFactory);
             return new HttpListener(address, port, factory);
         }
 
@@ -78,7 +78,7 @@ namespace HttpServer
         /// <param name="port">Port that listener should accept connections on.</param>
         /// <param name="certificate">Certificate to use</param>
 		/// <returns>Created HTTP listener.</returns>
-        public static HttpListener Create(IPAddress address, int port, X509Certificate certificate)
+        public static HttpListener Create (IPAddress address, int port, X509Certificate certificate, ILogWriter log)
         {
             RequestParserFactory requestFactory = new RequestParserFactory();
             HttpContextFactory factory = new HttpContextFactory(NullLogWriter.Instance, 16384, requestFactory);
