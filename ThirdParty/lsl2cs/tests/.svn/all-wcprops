@@ -1,0 +1,509 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/opensim-libs/!svn/ver/87/trunk/managed/lsl2cs/tests
+END
+030_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/030_expected.cs
+END
+031_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/031_expected.cs
+END
+032_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/032_expected.cs
+END
+033_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/033_expected.cs
+END
+030.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/030.lsl
+END
+034_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/034_expected.cs
+END
+031.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/031.lsl
+END
+035_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/50/trunk/managed/lsl2cs/tests/035_expected.cs
+END
+032.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/032.lsl
+END
+036_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/50/trunk/managed/lsl2cs/tests/036_expected.cs
+END
+033.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/033.lsl
+END
+037_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/50/trunk/managed/lsl2cs/tests/037_expected.cs
+END
+034.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/034.lsl
+END
+038_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/50/trunk/managed/lsl2cs/tests/038_expected.cs
+END
+035.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/50/trunk/managed/lsl2cs/tests/035.lsl
+END
+039_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/50/trunk/managed/lsl2cs/tests/039_expected.cs
+END
+036.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/50/trunk/managed/lsl2cs/tests/036.lsl
+END
+037.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/50/trunk/managed/lsl2cs/tests/037.lsl
+END
+038.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/50/trunk/managed/lsl2cs/tests/038.lsl
+END
+039.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/50/trunk/managed/lsl2cs/tests/039.lsl
+END
+001_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/001_expected.cs
+END
+002_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/002_expected.cs
+END
+003_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/003_expected.cs
+END
+004_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/004_expected.cs
+END
+040_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/51/trunk/managed/lsl2cs/tests/040_expected.cs
+END
+005_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/005_expected.cs
+END
+001.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/001.lsl
+END
+041_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/52/trunk/managed/lsl2cs/tests/041_expected.cs
+END
+006_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/006_expected.cs
+END
+002.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/002.lsl
+END
+042_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/87/trunk/managed/lsl2cs/tests/042_expected.cs
+END
+007_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/007_expected.cs
+END
+003.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/003.lsl
+END
+008_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/008_expected.cs
+END
+004.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/004.lsl
+END
+040.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/51/trunk/managed/lsl2cs/tests/040.lsl
+END
+005.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/005.lsl
+END
+009_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/009_expected.cs
+END
+041.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/52/trunk/managed/lsl2cs/tests/041.lsl
+END
+006.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/006.lsl
+END
+042.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/87/trunk/managed/lsl2cs/tests/042.lsl
+END
+007.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/007.lsl
+END
+008.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/008.lsl
+END
+009.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/009.lsl
+END
+010_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/010_expected.cs
+END
+011_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/011_expected.cs
+END
+012_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/012_expected.cs
+END
+013_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/013_expected.cs
+END
+010.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/010.lsl
+END
+014_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/014_expected.cs
+END
+011.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/011.lsl
+END
+015_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/015_expected.cs
+END
+012.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/012.lsl
+END
+016_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/016_expected.cs
+END
+017_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/017_expected.cs
+END
+013.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/013.lsl
+END
+018_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/018_expected.cs
+END
+014.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/014.lsl
+END
+019_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/019_expected.cs
+END
+015.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/015.lsl
+END
+016.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/016.lsl
+END
+017.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/017.lsl
+END
+018.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/018.lsl
+END
+019.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/019.lsl
+END
+020_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/020_expected.cs
+END
+021_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/021_expected.cs
+END
+022_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/022_expected.cs
+END
+023_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/023_expected.cs
+END
+024_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/024_expected.cs
+END
+020.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/020.lsl
+END
+025_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/025_expected.cs
+END
+021.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/021.lsl
+END
+026_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/026_expected.cs
+END
+022.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/022.lsl
+END
+027_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/027_expected.cs
+END
+023.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/023.lsl
+END
+028_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/028_expected.cs
+END
+024.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/024.lsl
+END
+029_expected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/029_expected.cs
+END
+025.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/025.lsl
+END
+026.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/026.lsl
+END
+027.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/027.lsl
+END
+028.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/028.lsl
+END
+029.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensim-libs/!svn/ver/48/trunk/managed/lsl2cs/tests/029.lsl
+END
