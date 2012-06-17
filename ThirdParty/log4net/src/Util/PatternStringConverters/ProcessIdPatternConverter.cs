@@ -45,7 +45,10 @@ namespace log4net.Util.PatternStringConverters
 		/// <para>
 		/// Write the current process ID to the output <paramref name="writer"/>.
 		/// </para>
-		/// </remarks>
+        /// </remarks>
+#if NET_4_0
+        [System.Security.SecuritySafeCritical]
+#endif
 		override protected void Convert(TextWriter writer, object state) 
 		{
 #if (NETCF || SSCLI)

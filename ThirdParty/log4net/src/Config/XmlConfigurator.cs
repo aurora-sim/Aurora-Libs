@@ -728,7 +728,11 @@ namespace log4net.Config
 #elif NET_2_0
 					// Allow the DTD to specify entity includes
 					XmlReaderSettings settings = new XmlReaderSettings();
+#if !NET_4_0
 					settings.ProhibitDtd = false;
+#else
+					settings.DtdProcessing = DtdProcessing.Parse;
+#endif
 
 					// Create a reader over the input stream
 					XmlReader xmlReader = XmlReader.Create(configStream, settings);
@@ -801,7 +805,10 @@ namespace log4net.Config
 		/// a separate configuration file, see <see cref="Configure(FileInfo)"/>.
 		/// </para>
 		/// </remarks>
-		/// <seealso cref="Configure(FileInfo)"/>
+        /// <seealso cref="Configure(FileInfo)"/>
+#if NET_4_0
+            [System.Security.SecuritySafeCritical]
+#endif
 		static public ICollection ConfigureAndWatch(FileInfo configFile)
 		{
             ArrayList configurationMessages = new ArrayList();
@@ -1034,6 +1041,9 @@ namespace log4net.Config
             /// <summary>
             /// Release the handles held by the watcher and timer.
             /// </summary>
+#if NET_4_0
+            [System.Security.SecuritySafeCritical]
+#endif
             public void Dispose()
             {
                 m_watcher.EnableRaisingEvents = false;

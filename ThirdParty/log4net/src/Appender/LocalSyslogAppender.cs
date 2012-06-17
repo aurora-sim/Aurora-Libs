@@ -336,7 +336,10 @@ namespace log4net.Appender
 		/// If any of the configuration properties are modified then 
 		/// <see cref="ActivateOptions"/> must be called again.
 		/// </para>
-		/// </remarks>
+        /// </remarks>
+#if NET_4_0
+        [System.Security.SecuritySafeCritical]
+#endif
 		public override void ActivateOptions()
 		{
 			base.ActivateOptions();
@@ -374,7 +377,10 @@ namespace log4net.Appender
 		/// <para>
 		/// The format of the output will depend on the appender's layout.
 		/// </para>
-		/// </remarks>
+        /// </remarks>
+#if NET_4_0
+        [System.Security.SecuritySafeCritical]
+#endif
 		protected override void Append(LoggingEvent loggingEvent) 
 		{
 			int priority = GeneratePriority(m_facility, GetSeverity(loggingEvent.Level));
@@ -392,7 +398,10 @@ namespace log4net.Appender
 		/// <para>
 		/// Close the syslog when the appender is closed
 		/// </para>
-		/// </remarks>
+        /// </remarks>
+#if NET_4_0
+        [System.Security.SecuritySafeCritical]
+#endif
 		protected override void OnClose()
 		{
 			base.OnClose();

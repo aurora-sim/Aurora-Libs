@@ -144,7 +144,10 @@ namespace log4net.Plugin
 		/// When the plugin is shutdown the remote logging
 		/// sink is disconnected.
 		/// </para>
-		/// </remarks>
+        /// </remarks>
+#if NET_4_0
+        [System.Security.SecuritySafeCritical]
+#endif
 		override public void Shutdown()
 		{
 			// Stops the sink from receiving messages
@@ -246,7 +249,10 @@ namespace log4net.Plugin
 			/// policy for this instance. This object should live forever
 			/// therefore this implementation returns <c>null</c>.
 			/// </para>
-			/// </remarks>
+            /// </remarks>
+#if NET_4_0
+            [System.Security.SecurityCritical]
+#endif
 			public override object InitializeLifetimeService()
 			{
 				return null;

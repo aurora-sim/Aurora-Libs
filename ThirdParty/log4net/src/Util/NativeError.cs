@@ -113,7 +113,12 @@ namespace log4net.Util
 		/// The message for the <see cref="Marshal.GetLastWin32Error"/> error number is lookup up using the 
 		/// native Win32 <c>FormatMessage</c> function.
 		/// </para>
-		/// </remarks>
+        /// </remarks>
+#if NET_4_0
+        [System.Security.SecuritySafeCritical]
+#elif !NETCF
+        [System.Security.Permissions.SecurityPermission(System.Security.Permissions.SecurityAction.Demand, UnmanagedCode = true)]
+#endif
 		public static NativeError GetLastError() 
 		{
 			int number = Marshal.GetLastWin32Error();
@@ -151,7 +156,12 @@ namespace log4net.Util
 		/// The message will be searched for in system message-table resource(s)
 		/// using the native <c>FormatMessage</c> function.
 		/// </para>
-		/// </remarks>
+        /// </remarks>
+#if NET_4_0
+        [System.Security.SecuritySafeCritical]
+#elif !NETCF
+        [System.Security.Permissions.SecurityPermission(System.Security.Permissions.SecurityAction.Demand, UnmanagedCode = true)]
+#endif
 		public static string GetErrorMessage(int messageId) 
 		{
 			// Win32 constants

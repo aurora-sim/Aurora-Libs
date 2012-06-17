@@ -303,7 +303,11 @@ namespace log4net.Appender
 		/// <para>
 		/// Sends the event using a network message.
 		/// </para>
-		/// </remarks>
+        /// </remarks>
+#if NET_4_0
+        [System.Security.SecuritySafeCritical]
+#endif
+        [System.Security.Permissions.SecurityPermission(System.Security.Permissions.SecurityAction.Demand, UnmanagedCode = true)]
 		protected override void Append(LoggingEvent loggingEvent) 
 		{
 			NativeError nativeError = null;

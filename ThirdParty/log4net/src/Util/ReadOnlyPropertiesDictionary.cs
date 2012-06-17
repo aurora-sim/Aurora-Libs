@@ -202,8 +202,12 @@ namespace log4net.Util
 		/// <para>
 		/// Serializes this object into the <see cref="SerializationInfo" /> provided.
 		/// </para>
-		/// </remarks>
-		[System.Security.Permissions.SecurityPermissionAttribute(System.Security.Permissions.SecurityAction.Demand, SerializationFormatter=true)]
+        /// </remarks>
+#if NET_4_0
+        [System.Security.SecurityCritical]
+#else
+        [System.Security.Permissions.SecurityPermissionAttribute(System.Security.Permissions.SecurityAction.Demand, SerializationFormatter = true)]
+#endif
 		public virtual void GetObjectData(SerializationInfo info, StreamingContext context)
 		{
 			foreach(DictionaryEntry entry in InnerHashtable)

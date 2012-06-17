@@ -137,7 +137,10 @@ namespace log4net.Appender
 		/// If any of the configuration properties are modified then 
 		/// <see cref="ActivateOptions"/> must be called again.
 		/// </para>
-		/// </remarks>
+        /// </remarks>
+#if NET_4_0
+        [System.Security.SecuritySafeCritical]
+#endif
 		override public void ActivateOptions() 
 		{
 			base.ActivateOptions();

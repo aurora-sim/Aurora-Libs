@@ -1012,8 +1012,12 @@ namespace log4net.Core
 		/// <see cref="log4net.Appender.IAppender.DoAppend"/> method call if this event 
 		/// is to be used outside that method.
 		/// </para>
-		/// </remarks>
-		[System.Security.Permissions.SecurityPermissionAttribute(System.Security.Permissions.SecurityAction.Demand, SerializationFormatter=true)]
+        /// </remarks>
+#if NET_4_0
+        [System.Security.SecurityCritical]
+#else
+        [System.Security.Permissions.SecurityPermissionAttribute(System.Security.Permissions.SecurityAction.Demand, SerializationFormatter = true)]
+#endif
 		public virtual void GetObjectData(SerializationInfo info, StreamingContext context)
 		{
 			// The caller must call FixVolatileData before this object
