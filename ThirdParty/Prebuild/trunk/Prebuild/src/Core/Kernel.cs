@@ -87,9 +87,11 @@ namespace Prebuild.Core
         private readonly Dictionary<string, ITarget> m_Targets = new Dictionary<string, ITarget>();
         private readonly Dictionary<string, NodeEntry> m_Nodes = new Dictionary<string, NodeEntry>();
 
-	    readonly List<SolutionNode> m_Solutions = new List<SolutionNode>();        
-		string m_Target;
+	    readonly List<SolutionNode> m_Solutions = new List<SolutionNode>();
+        string m_Target;
         FrameworkVersion m_TargetFramework; //Overrides all project settings
+        string m_Conditionals; //Adds to all project settings
+        public string ForcedConditionals { get { return m_Conditionals; } }
 		string m_Clean;
 		string[] m_RemoveDirectories;
 	    XmlDocument m_CurrentDoc;
@@ -600,7 +602,9 @@ namespace Prebuild.Core
 
 				dataNode.Parent = parent;
                 if (dataNode is ProjectNode)
+                {
                     ((ProjectNode)dataNode).FrameworkVersion = m_TargetFramework;
+                }
 				dataNode.Parse(node);
 			}
 			catch(WarningException wex)
@@ -656,6 +660,7 @@ namespace Prebuild.Core
 			m_CurrentWorkingDirectory = new CurrentDirectory();
 
             m_Target = m_CommandLine["target"];
+            m_Conditionals = m_CommandLine["conditionals"];
             m_TargetFramework = (FrameworkVersion)Enum.Parse (typeof (FrameworkVersion), m_CommandLine["targetframework"]);
 			m_Clean = m_CommandLine["clean"];
 			string removeDirs = m_CommandLine["removedir"];
