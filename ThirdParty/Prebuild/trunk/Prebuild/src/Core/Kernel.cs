@@ -661,7 +661,8 @@ namespace Prebuild.Core
 
             m_Target = m_CommandLine["target"];
             m_Conditionals = m_CommandLine["conditionals"];
-            m_TargetFramework = (FrameworkVersion)Enum.Parse (typeof (FrameworkVersion), m_CommandLine["targetframework"]);
+            if(m_CommandLine["targetframework"] != null)
+                m_TargetFramework = (FrameworkVersion)Enum.Parse (typeof (FrameworkVersion), m_CommandLine["targetframework"]);
 			m_Clean = m_CommandLine["clean"];
 			string removeDirs = m_CommandLine["removedir"];
 			if(removeDirs != null && removeDirs.Length == 0) 
