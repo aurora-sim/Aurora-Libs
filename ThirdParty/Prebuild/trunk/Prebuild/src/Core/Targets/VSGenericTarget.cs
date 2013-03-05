@@ -210,7 +210,12 @@ namespace Prebuild.Core.Targets
 				ps.WriteLine("	  </FileUpgradeFlags>");
 
 				ps.WriteLine("	</PropertyGroup>");
-
+                if (!string.IsNullOrEmpty(project.ApplicationManifest))
+                {
+                    ps.WriteLine("	<PropertyGroup>");
+                    ps.WriteLine("	  <ApplicationManifest>" + project.ApplicationManifest + "</ApplicationManifest>");
+                    ps.WriteLine("	</PropertyGroup>");
+                }
 				foreach (ConfigurationNode conf in project.Configurations)
 				{
 					ps.Write("	<PropertyGroup ");

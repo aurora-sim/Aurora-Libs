@@ -107,6 +107,7 @@ namespace Prebuild.Core.Nodes
 		private string m_FullPath = "";
 		private string m_AssemblyName;
 		private string m_AppIcon = "";
+        private string m_ApplicationManifest = "";
         private string m_ConfigFile = "";
 		private string m_DesignerFolder = "";
 		private string m_Language = "C#";
@@ -217,17 +218,29 @@ namespace Prebuild.Core.Nodes
 			}
 		}
 
-		/// <summary>
-		/// Gets the app icon.
-		/// </summary>
-		/// <value>The app icon.</value>
-		public string AppIcon 
-		{
-			get 
-			{
-				return m_AppIcon;
-			}
-		}
+        /// <summary>
+        /// Gets the app icon.
+        /// </summary>
+        /// <value>The app icon.</value>
+        public string AppIcon
+        {
+            get
+            {
+                return m_AppIcon;
+            }
+        }
+
+        /// <summary>
+        /// Gets the Application Manifest.
+        /// </summary>
+        /// <value>The Application Manifest.</value>
+        public string ApplicationManifest
+        {
+            get
+            {
+                return m_ApplicationManifest;
+            }
+        }
 
 		/// <summary>
 		/// Gets the app icon.
@@ -489,8 +502,9 @@ namespace Prebuild.Core.Nodes
 			m_Name = Helper.AttributeValue(node, "name", m_Name);
 			m_Path = Helper.AttributeValue(node, "path", m_Path);
 			m_FilterGroups = Helper.AttributeValue(node, "filterGroups", m_FilterGroups);
-			m_Version = Helper.AttributeValue(node, "version", m_Version);
-			m_AppIcon = Helper.AttributeValue(node, "icon", m_AppIcon);
+            m_Version = Helper.AttributeValue(node, "version", m_Version);
+            m_AppIcon = Helper.AttributeValue(node, "icon", m_AppIcon);
+            m_ApplicationManifest = Helper.AttributeValue(node, "appmanifest", m_ApplicationManifest);
             m_ConfigFile = Helper.AttributeValue(node, "configFile", m_ConfigFile);
 			m_DesignerFolder = Helper.AttributeValue(node, "designerFolder", m_DesignerFolder);
 			m_AssemblyName = Helper.AttributeValue(node, "assemblyName", m_AssemblyName);

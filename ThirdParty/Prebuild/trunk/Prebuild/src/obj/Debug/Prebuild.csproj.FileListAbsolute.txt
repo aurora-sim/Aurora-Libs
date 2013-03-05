@@ -3,3 +3,12 @@ E:\Aurora\Projects\Prebuild\trunk\Prebuild\src\bin\Debug\prebuild.pdb
 E:\Aurora\Projects\Prebuild\trunk\Prebuild\src\obj\Debug\ResolveAssemblyReference.cache
 E:\Aurora\Projects\Prebuild\trunk\Prebuild\src\obj\Debug\prebuild.exe
 E:\Aurora\Projects\Prebuild\trunk\Prebuild\src\obj\Debug\prebuild.pdb
+C:\everything\code\projects\aurora\Aurora-Libs\ThirdParty\Prebuild\trunk\Prebuild\src\obj\Debug\prebuild.exe
+C:\everything\code\projects\aurora\Aurora-Libs\ThirdParty\Prebuild\trunk\Prebuild\src\obj\Debug\prebuild.pdb
+C:\everything\code\projects\aurora\Aurora-Libs\ThirdParty\Prebuild\trunk\Prebuild\src\bin\Debug\prebuild.exe
+C:\everything\code\projects\aurora\Aurora-Libs\ThirdParty\Prebuild\trunk\Prebuild\src\bin\Debug\prebuild.pdb
+C:\everything\code\projects\aurora\Aurora-Libs\ThirdParty\Prebuild\trunk\Prebuild\src\obj\Debug\Prebuild.csprojResolveAssemblyReference.cache
+D:\Everything\Code\Projects\Aurora\Aurora-Libs\ThirdParty\Prebuild\trunk\Prebuild\src\obj\Debug\prebuild.exe
+D:\Everything\Code\Projects\Aurora\Aurora-Libs\ThirdParty\Prebuild\trunk\Prebuild\src\obj\Debug\prebuild.pdb
+D:\Everything\Code\Projects\Aurora\Aurora-Libs\ThirdParty\Prebuild\trunk\Prebuild\src\bin\Debug\prebuild.exe
+D:\Everything\Code\Projects\Aurora\Aurora-Libs\ThirdParty\Prebuild\trunk\Prebuild\src\bin\Debug\prebuild.pdb
