@@ -259,7 +259,7 @@ namespace Aurora.ScriptEngineParser
     //%+StateEvent+103
     public class StateEvent : SYMBOL
     {
-        private readonly string m_name;
+        private string m_name;
 
         public StateEvent(Parser yyp, string name, CompoundStatement cs) : base((yyp))
         {
@@ -281,6 +281,7 @@ namespace Aurora.ScriptEngineParser
         public string Name
         {
             get { return m_name; }
+            set { m_name = value; }
         }
 
         public override string yyname
